@@ -4,6 +4,8 @@ title:  "Great Barrier Reef"
 date:   2023-12-01T04:00:00-00:00
 author: Junior
 categories: Australia
+cover:  "/assets/great-barrier-reef.jpg"
+thumbnail:  "/assets/great-barrier-reef.jpg"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
