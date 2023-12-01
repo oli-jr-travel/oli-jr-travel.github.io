@@ -5,6 +5,8 @@ date:   2023-12-01T01:00:00-00:00
 author: Junior
 categories:
   - New Zealand
+cover:  "/assets/fiordland.jpg"
+thumbnail:  "/assets/fiordland.jpg"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
