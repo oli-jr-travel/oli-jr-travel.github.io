@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Auckland"
-date:   2023-12-01T00:00:00-00:00
+title:  "Fiordland National Park"
+date:   2023-12-01T08:00:00-00:00
 author: Junior
 categories: New Zealand
 ---
