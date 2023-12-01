@@ -21,7 +21,7 @@ description: >
 baseurl: "/oli-jr-travel" # the subpath of your site, e.g. /blog/
 url: "https://gramirezjr.github.io" # the base hostname & protocol for your site
 cover: "/assets/oli-jr-boat.jpg"
-logo: "/assets/oli-jr-logo.png"
+logo: "/assets/oli-jr-logo-2.png"
 
 # Build settings
 markdown: kramdown
