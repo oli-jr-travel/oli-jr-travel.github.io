@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![image tooltip here](/assets/oli-jr-boat.jpg)
+![image tooltip here](/assets/oli-jr.jpg)
 
 This is just a dummy post. Lorem ipsum and all the rest.
 
