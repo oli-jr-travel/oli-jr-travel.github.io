@@ -4,6 +4,8 @@ title:  "Melbourne"
 date:   2023-12-01T04:00:00-00:00
 author: Junior
 categories: Australia
+cover:  "/assets/melbourne.jpg"
+thumbnail:  "/assets/melbourne.jpg"
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
