@@ -20,6 +20,7 @@ pagination:
   <li>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				<img class="post-excerpt-image" src="{{ post.thumbnail | prepend: site.baseurl }}" /></a>
     </h2>
     <section class="post-excerpt" itemprop="description">
       <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
