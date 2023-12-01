@@ -7,6 +7,8 @@ main_nav: true
 
 ![image tooltip here](/assets/oli-jr.jpg)
 
-This is just a dummy post. Lorem ipsum and all the rest.
+![image tooltip here](/assets/oli-jr-boat.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![image tooltip here](/assets/oli-jr-logo.jpg)
+
+Made with love by gansitos <3
