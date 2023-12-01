@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Map
+permalink: /map/
 main_nav: true
 ---
-
-![image tooltip here](/assets/oli-jr.jpg)
 
 This is just a dummy post. Lorem ipsum and all the rest.
 
