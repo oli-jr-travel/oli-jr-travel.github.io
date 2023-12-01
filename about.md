@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 main_nav: true
-cover:  "/assets/oli-jr.jpg"
 ---
 
 ![image tooltip here](/assets/oli-jr.jpg)
