@@ -1,6 +1,5 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
-ignore_theme_config: true
 
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
@@ -13,7 +12,7 @@ exclude:
 # Site settings
 title: Oli and Jr.'s Travels
 subtitle: "Updates on our 2024 traveling adventures"
-email: oli-jr-travel@gmail.com
+email: oli.jr.travel@gmail.com
 name: Oliva Garcia Gerardo Ramirez Jr.
 description: >
   Oli and Jr.'s Travels
