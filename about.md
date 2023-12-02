@@ -17,6 +17,8 @@ Subscribe to get email notifications for new post updates.
 
 {% include contact-form.html %}
 
+<br />
+
 Shoot us a message below or contact us at oli.jr.travel@gmail.com.
 
 {% include message-form.html %}
