@@ -9,9 +9,11 @@ main_nav: true
 
 ![image tooltip here](/assets/oli-jr.jpg)
 
-Hello!
+<br />
 
-Oli and Jr. are taking a ~6 month travel sabbatical and visiting New Zealand, Australia, and Southeast Asia. We created this website to share our adventures if you want to follow along!
+Hello! Oli and Jr. are taking a ~6 month travel sabbatical and visiting New Zealand, Australia, and Southeast Asia. We created this website to share our adventures if you want to follow along!
+
+<br />
 
 Subscribe to get email notifications for new post updates.
 
