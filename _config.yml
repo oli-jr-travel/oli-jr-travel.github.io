@@ -5,6 +5,7 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - mini_magick
   - jekyll-gallery-generator
 
 exclude:
