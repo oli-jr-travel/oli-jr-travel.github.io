@@ -26,6 +26,14 @@ url: "https://gramirezjr.github.io" # the base hostname & protocol for your site
 cover: "/assets/oli-jr-boat.jpg"
 logo: "/assets/oli-jr-logo.png"
 
+thumbnail:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
+gallery_items:
+    resize_dimensions: '430x288^'
+    crop_dimensions: '430x288+0+0'
+
 # Build settings
 markdown: kramdown
 inter_post_navigation: false
