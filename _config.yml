@@ -5,8 +5,6 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
-  - mini_magick
-  - jekyll-gallery-generator
 
 exclude:
   - "/vendor/"
@@ -25,14 +23,6 @@ baseurl: "/oli-jr-travel" # the subpath of your site, e.g. /blog/
 url: "https://gramirezjr.github.io" # the base hostname & protocol for your site
 cover: "/assets/oli-jr-boat.jpg"
 logo: "/assets/oli-jr-logo.png"
-
-thumbnail:
-    resize_dimensions: '430x288^'
-    crop_dimensions: '430x288+0+0'
-
-gallery_items:
-    resize_dimensions: '430x288^'
-    crop_dimensions: '430x288+0+0'
 
 # Build settings
 markdown: kramdown
