@@ -2,8 +2,8 @@
 layout: page
 title: Gallery
 permalink: /gallery/
+cover:  "/assets/fiordland.jpg"
 main_nav: true
-cover: "/assets/fiordland.jpg"
 ---
 
 Click thumbnail for larger images.
