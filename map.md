@@ -2,7 +2,7 @@
 layout: page
 title: Map
 permalink: /map/
-main_nav: false
+main_nav: true
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
