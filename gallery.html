@@ -6,13 +6,30 @@ cover:  "/assets/fiordland.jpg"
 main_nav: true
 ---
 
-gallery:
-  dir: gallery              # Path to the gallery
-  symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
-  title: "Gallery"           # Title for gallery index page
-  title_prefix: "Gallery: "  # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
-  sort_field: "date_time"   # How to sort galleries on the index page.
-                            # Possible values are: title, date_time, best_image
-  thumbnail_size:
-    x: 400                  # max width of thumbnails (in pixels)
-    y: 400                  # max height of thumbnails (in pixels)
+<style TYPE="text/css">
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  max-height: 100%;
+  max-width: 100%;
+}
+</style>
+<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
+<hr />
+{% for image in page.images %}
+    <div class="gallery-image-wrapper">
+        <a name="{{ image.name }}"></a>
+        <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
+            <img class="gallery-image" src="thumbs/{{ image.name }}" />
+        </a>
+    </div>
+{% endfor %}
