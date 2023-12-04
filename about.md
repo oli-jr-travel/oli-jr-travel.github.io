@@ -5,22 +5,20 @@ permalink: /about/
 main_nav: true
 ---
 
-![image tooltip here](/assets/oli-jr-logo.png)
-
 ![image tooltip here](/assets/oli-jr.jpg)
 
 <br />
 
-Hello! Oli and Jr. are taking a ~6 month travel sabbatical and visiting New Zealand, Australia, and Southeast Asia. We created this website to share our adventures if you want to follow along!
+Hello and welcome to Oli & Junior's travel blog! We decided to leave our jobs at the beginning of 2024 to travel the world for a bit. We'll be gone for about 6 months to a year, and decided to create this blog so all our favorite people can follow along on our adventures. From the home page, you can click on each country to see pictures and read posts about what we did in our time there. We also have a [Gallery][https://gramirezjr.github.io/oli-jr-travel/gallery/] of all our photos for you to scroll through.
 
 <br />
 
-Subscribe to get email notifications for new post updates.
+You can sign up to receive email updates whenever we make a new post by subscribing below:
 
 {% include contact-form.html %}
 
 <br />
 
-Shoot us a message below or contact us at oli.jr.travel@gmail.com.
+The best way to get in touch with us is through WhatsApp, Facebook Messenger, sending us an email at at oli.jr.travel@gmail.com, or shooting us a message below:
 
 {% include message-form.html %}
