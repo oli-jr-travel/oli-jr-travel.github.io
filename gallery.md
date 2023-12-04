@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Map
+title: Gallery
 permalink: /gallery/
 main_nav: true
 ---
