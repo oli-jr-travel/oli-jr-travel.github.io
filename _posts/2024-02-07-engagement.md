@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Auckland"
+title:  "Aerial Tramway Engagement"
 date:   2024-2-15T00:00:00-00:00
 author: Junior
 categories:
-  - New Zealand
+  - Mt. San Jacinto
 cover:  "/assets/auckland.jpg"
 thumbnail:  "/assets/auckland.jpg"
 ---
