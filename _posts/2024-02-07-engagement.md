@@ -2,7 +2,7 @@
 layout: post
 title:  "Aerial Tramway Engagement"
 date:   2024-2-7T00:00:00-00:00
-author: Junior
+author: Olivia
 categories:
   - Mt. San Jacinto
 cover:  "/assets/auckland.jpg"
