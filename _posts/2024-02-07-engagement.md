@@ -15,15 +15,11 @@ It was so cold and windy once we made it to the top. We walked around Mountain S
 
 We had a celebratory drink at the bar and then made our way to the restaurant for dinner. We were all smiles at dinner and it was about 7 o’clock when we decided to hop on the next gondola down the mountain. The station employee let us know the next gondola would be departing in 15 minutes. Well, 15 minutes came and went. And then 30 minutes, and then an hour and we were still no closer to getting on a gondola down. They told us that the gondola got stuck because of the very cold weather and that they were able to get it unstuck, but had to perform a few test runs before sending passengers down. We wouldn’t be making our way down the mountain for another 50 minutes. By the time we got back to the valley it would be past 11 o’clock. Definitely a day we will never forget hahaha!
 
-<div class="row">
-  <img src="/assets/oli-jr.jpg" class="column-50" />
-  <img src="/assets/fiordland.jpg" class="column-50" />
-</div>
-
-<div class="row">
-  <img src="/assets/great-barrier-reef.jpg" class="column-50" />
-  <img src="/assets/auckland.jpg" class="column-50" />
-</div>
+<p float="left">
+  <img src="/assets/oli-jr.jpg" width="100" />
+  <img src="/assets/fiordland.jpg" width="100" /> 
+  <img src="/assets/auckland.jpg" width="100" />
+</p>
 
 Español
 ¡¡Nos comprometimos!! Después de movernos de nuestro apartamento, Junior y yo regresamos a casa con nuestras familias. Había pasado una semana desde que nos vimos cuando Junior me recogió a última hora de la mañana del Miércoles 7 de Febrero. Nos subimos al coche y nos dirigimos hacia el este, hacia Palm Springs. Condujimos hasta la entrada del tranvía y subimos a la siguiente góndola. Hacía un clima perfecto en tierra, pero tan pronto como llegamos lo suficientemente alto en la góndola, la nieve en la ladera de la montaña tenía literalmente dos pies de profundidad: ¡parecía que íbamos a visitar al Grinch!
