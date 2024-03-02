@@ -18,6 +18,7 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 <img src="assets/photos/engagement/IMG_7090.jpg" />
 <img src="assets/photos/engagement/IMG_7121.jpg" />
 <img src="assets/photos/engagement/IMG_7118.jpg" />
+<img src="assets/photos/engagement/IMG_7097.jpg" />
 
 __Español__
 
