@@ -26,6 +26,8 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 <img src="/oli-jr-travel/assets/photos/engagement/IMG_7110.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
 </div>
 
+<br>
+
 <div>
 __Español__
 
