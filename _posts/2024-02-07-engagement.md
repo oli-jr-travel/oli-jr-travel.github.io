@@ -5,8 +5,8 @@ date:   2024-2-7T00:00:00-00:00
 author: Olivia
 categories:
   - Mt. San Jacinto
-cover:  "/assets/photos/engagement/IMG_7090.jpg"
-thumbnail:  "/assets/photos/engagement/IMG_7090.jpg"
+cover:  "/assets/photos/engagement/engagement_1.jpg"
+thumbnail:  "/assets/photos/engagement/engagement_1.jpg"
 ---
 
 We got engaged!! After moving out of our apartment, Junior and I moved back home with our families. It had been a week since we had seen each other when Junior picked me up in the late morning on Wednesday February 7th. We got in the car and made our way east towards Palm Springs. We drove up to the entrance of the tramway and boarded the next gondola. It was perfect weather on the ground, but as soon as we got high enough on the gondola, the snow on the mountainside was literally two feet deep – it looked like we were going to visit the Grinch! 
@@ -17,14 +17,14 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 
 <div>
 
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7090.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7097.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7108.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7118.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7121.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7086.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7087.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom: 10px">
-<img src="/oli-jr-travel/assets/photos/engagement/IMG_7110.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_1.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_2.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_3.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_4.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_5.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_6.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_7.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom: 10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_8.jpg" style="float:left; width:100%; margin-right:10px; margin-bottom: 10px">
 
 </div>
 
