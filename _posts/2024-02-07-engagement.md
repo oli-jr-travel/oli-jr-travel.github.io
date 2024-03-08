@@ -5,8 +5,8 @@ date:   2024-2-7T00:00:00-00:00
 author: Olivia
 categories:
   - Mt. San Jacinto
-cover:  "/assets/auckland.jpg"
-thumbnail:  "/assets/auckland.jpg"
+cover:  "/assets/photos/engagement/IMG_7090.jpg"
+thumbnail:  "/assets/photos/engagement/IMG_7090.jpg"
 ---
 
 We got engaged!! After moving out of our apartment, Junior and I moved back home with our families. It had been a week since we had seen each other when Junior picked me up in the late morning on Wednesday February 7th. We got in the car and made our way east towards Palm Springs. We drove up to the entrance of the tramway and boarded the next gondola. It was perfect weather on the ground, but as soon as we got high enough on the gondola, the snow on the mountainside was literally two feet deep – it looked like we were going to visit the Grinch! 
