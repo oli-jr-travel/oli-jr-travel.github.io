@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Milford Sound"
-date:   2024-3-4T00:00:00-00:00
-author: Oli & Junior
+date:   2024-03-4T00:00:00-00:00
+author: Olivia & Junior
 categories:
   - New Zealand
 cover:  "/assets/photos/milford_sound/milford_sound_1.jpg"
