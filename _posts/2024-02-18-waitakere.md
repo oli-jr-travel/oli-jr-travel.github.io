@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Waitakere Ranges Regional Park"
-date:   2024-03-18T00:00:00-00:00
+date:   2024-02-18T00:00:00-00:00
 author: Olivia & Junior
 categories:
   - New Zealand
