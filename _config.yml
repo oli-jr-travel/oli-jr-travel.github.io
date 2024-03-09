@@ -82,14 +82,14 @@ social:
     username: 
     url: ""
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url: ""
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: LinkedIn
     icon: linkedin
