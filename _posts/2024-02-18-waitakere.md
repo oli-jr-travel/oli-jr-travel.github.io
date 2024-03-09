@@ -19,8 +19,10 @@ We picked up a rental car in the morning and made our way west for the Waitakere
 
 After our day of hiking, we drove back to Auckland and hopped on the InterCity bus to Hamilton. We’ll be traveling by InterCity bus a lot in our time on the North Island – it’s a pretty affordable way to travel across the island to all the major tourist towns/cities. Here’s a map so you can see what some of our journeys will look like.
 
-<img src="/oli-jr-travel/assets/photos/waitakere/waitakere_4.jpg" style="width:60%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/waitakere/waitakere_5.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/waitakere/waitakere_4.jpg" style="float:left; width:39%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/waitakere/waitakere_5.jpg" style="float:right; width:59%; margin-bottom:10px" />
+</div>
 
 __Español__
 
