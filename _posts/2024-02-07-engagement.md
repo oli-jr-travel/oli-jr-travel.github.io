@@ -16,13 +16,13 @@ It was so cold and windy once we made it to the top. We walked around Mountain S
 We had a celebratory drink at the bar and then made our way to the restaurant for dinner. We were all smiles at dinner and it was about 7 o’clock when we decided to hop on the next gondola down the mountain. The station employee let us know the next gondola would be departing in 15 minutes. Well, 15 minutes came and went. And then 30 minutes, and then an hour and we were still no closer to getting on a gondola down. They told us that the gondola got stuck because of the very cold weather and that they were able to get it unstuck, but had to perform a few test runs before sending passengers down. We wouldn’t be making our way down the mountain for another 50 minutes. By the time we got back to the valley it would be past 11 o’clock. Definitely a day we will never forget hahaha!
 
 <img src="/oli-jr-travel/assets/photos/engagement/engagement_1.jpg" style="width:100%">
-<div float="left">
+<div float="center">
   <img src="/oli-jr-travel/assets/photos/engagement/engagement_2.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/engagement/engagement_3.jpg" style="float:left; width:48%; margin-bottom:10px" />
 </div>
 <img src="/oli-jr-travel/assets/photos/engagement/engagement_4.jpg" style="width:100%; margin-bottom:10px">
 <img src="/oli-jr-travel/assets/photos/engagement/engagement_5.jpg" style="width:100%; margin-bottom:10px">
-<div float="left">
+<div float="center">
   <img src="/oli-jr-travel/assets/photos/engagement/engagement_6.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/engagement/engagement_7.jpg" style="float:left; width:48%; margin-bottom:10px" />
 </div>
