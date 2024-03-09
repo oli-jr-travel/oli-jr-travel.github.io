@@ -21,6 +21,8 @@ We spent the day roaming around Waiheke Island just off the coast of Auckland. A
   <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
+<br clear="all" />
+
 __Español__
 
 Pasamos el día recorriendo la isla Waiheke, frente a la costa de Auckland. Después de tomar el tren hasta el centro de Auckland, abordamos el ferry y llegamos a Waiheke en 50 minutos. Una vez aterrizamos, caminamos hasta el pueblo para almorzar. Desde allí abordamos el autobús hacia otra parte de la isla donde pudimos caminar por la playa. Continuamos nuestra caminata subiendo un largo tramo de escaleras y terminamos en Casita Miró, una bodega de inspiración española. ¡Parecía como si acabáramos de entrar al set de Cheetah Girls en Barcelona! Compramos una copa de vino para degustar y algunos bocadillos estilo tapas para comer mientras estábamos sentados en el césped con vista al viñedo y al restaurante. ¡Fue un gran momento! Oli tuvo una pequeña muestra de cómo sería la vida en una bodega aquí en Nueva Zelanda. Luego volvimos a subir al siguiente ferry y pudimos ver la puesta de sol sobre Auckland en nuestro viaje de regreso. Nos sentamos en la cubierta superior y hacía mucho viento durante todo el viaje, ¡pero valió la pena por las vistas!
