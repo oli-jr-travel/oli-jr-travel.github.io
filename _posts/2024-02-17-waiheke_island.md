@@ -12,11 +12,14 @@ thumbnail:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
 We spent the day roaming around Waiheke Island just off the coast of Auckland. After taking the train into downtown Auckland, we boarded the ferry and made it to Waiheke in 50 minutes. Once we landed, we walked into town for lunch. From there we boarded the bus to another portion of the island where we were able to walk along the beach. We continued our walk up a long flight of stairs and ended up at [Casita Miro](https://www.casitamiro.co.nz/), a Spanish-inspired winery. It felt like we had just walked into the Cheetah Girls set in Barcelona! We bought a flight of wine to taste and some tapas-styled snacks to munch on while sitting on the lawn overlooking the vineyard and restaurant. It was such a great time! Oli got a little taste of what winery life would be like here in New Zealand. Then we hopped back on the next ferry and got to watch the sun set over Auckland on our ride back. We sat on the top deck and it was so windy the entire ride, but well worth it for the views!
 
 <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_2.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_3.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_4.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_5.jpg" style="width:100%; margin-bottom:10px">
-
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
 
 __Español__
 
