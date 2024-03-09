@@ -17,9 +17,9 @@ English post
   <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:27%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="float:center; width:27%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="float:right; width:27%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:30%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="width:30%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="float:right; width:30%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
