@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![image tooltip here](/assets/home_routebourn_track.jpg)
+![image tooltip here](/assets/about_abel_tasman.jpg)
 
 <br />
 
