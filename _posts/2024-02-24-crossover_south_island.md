@@ -1,26 +1,18 @@
 ---
 layout: post
-title:  "Waiheke Island"
-date:   2024-02-17T00:00:00-00:00
+title:  "Cross over to the South Island"
+date:   2024-02-24T00:00:00-00:00
 author: Olivia & Junior
 categories:
   - New Zealand
-cover:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
-thumbnail:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
+cover:  "/assets/photos/crossover_south_island/ferry_south_island.jpg"
+thumbnail:  "/assets/photos/crossover_south_island/ferry_south_island.jpg"
 ---
 
-We spent the day roaming around Waiheke Island just off the coast of Auckland. After taking the train into downtown Auckland, we boarded the ferry and made it to Waiheke in 50 minutes. Once we landed, we walked into town for lunch. From there we boarded the bus to another portion of the island where we were able to walk along the beach. We continued our walk up a long flight of stairs and ended up at [Casita Miro](https://www.casitamiro.co.nz/), a Spanish-inspired winery. It felt like we had just walked into the Cheetah Girls set in Barcelona! We bought a flight of wine to taste and some tapas-styled snacks to munch on while sitting on the lawn overlooking the vineyard and restaurant. It was such a great time! Oli got a little taste of what winery life would be like here in New Zealand. Then we hopped back on the next ferry and got to watch the sun set over Auckland on our ride back. We sat on the top deck and it was so windy the entire ride, but well worth it for the views!
+Today marks our last day on the North Island for a while. We hopped on the ferry in Wellington to take us over to the South Island via Cooks Straight. Admittedly, we slept through our alarm and missed the actual ferry we booked, so we had to book the next available one a few hours later! We did eventually make it to Picton, the small port town on the north tip of the South Island. We stayed at this hostel called the Sequoia Lodge and honestly, it felt like we hopped in a time machine back to what would have been the golden age of hostels. It was so homey and the guy that ran it, Graham, seems like he pours a lot of time into making the place feel like you’re just hanging out at a friend’s house. We’ve stayed at a number of hostels at this point, some have upgraded amenities but feel a bit sterile, others felt and looked like the Cecil Hotel, but this one was a nice gem we stumbled upon. 
 
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_1.jpg" style="width:100%; margin-bottom:10px">
-<div float="left">
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
-</div>
-<div float="left">
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
-</div>
+<img src="/oli-jr-travel/assets/photos/crossover_south_island/ferry_south_island.jpg" style="width:100%; margin-bottom:10px">
 
 __Español__
 
-Pasamos el día recorriendo la isla Waiheke, frente a la costa de Auckland. Después de tomar el tren hasta el centro de Auckland, abordamos el ferry y llegamos a Waiheke en 50 minutos. Una vez aterrizamos, caminamos hasta el pueblo para almorzar. Desde allí abordamos el autobús hacia otra parte de la isla donde pudimos caminar por la playa. Continuamos nuestra caminata subiendo un largo tramo de escaleras y terminamos en Casita Miró, una bodega de inspiración española. ¡Parecía como si acabáramos de entrar al set de Cheetah Girls en Barcelona! Compramos una copa de vino para degustar y algunos bocadillos estilo tapas para comer mientras estábamos sentados en el césped con vista al viñedo y al restaurante. ¡Fue un gran momento! Oli tuvo una pequeña muestra de cómo sería la vida en una bodega aquí en Nueva Zelanda. Luego volvimos a subir al siguiente ferry y pudimos ver la puesta de sol sobre Auckland en nuestro viaje de regreso. Nos sentamos en la cubierta superior y hacía mucho viento durante todo el viaje, ¡pero valió la pena por las vistas!
+Hoy marca nuestro último día en la Isla Norte por un tiempo. Nos subimos al ferry en Wellington para llevarnos a la Isla Sur a través de Cooks Straight. Es cierto que dormimos hasta que sonó la alarma y perdimos el ferry que reservamos, por lo que tuvimos que reservar el siguiente disponible unas horas más tarde. Finalmente llegamos a Picton, la pequeña ciudad portuaria en el extremo norte de la Isla Sur. Nos alojamos en este albergue llamado Sequoia Lodge y, sinceramente, nos sentimos como si nos subiéramos a una máquina del tiempo y volviéramos a lo que habría sido la época dorada de los albergues. Era muy hogareño y el tipo que lo dirigía, Graham, parece dedicar mucho tiempo a hacer que el lugar se sienta como si estuvieras en casa de un amigo. Nos hemos alojado en varios albergues en este momento, algunos tienen comodidades mejoradas pero se sienten un poco estériles, otros se sentían y parecían el Hotel Cecil, pero este fue una bonita joya con la que nos topamos.
