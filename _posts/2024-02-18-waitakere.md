@@ -24,6 +24,8 @@ After our day of hiking, we drove back to Auckland and hopped on the InterCity b
   <img src="/oli-jr-travel/assets/photos/waitakere/waitakere_5.jpg" style="float:right; width:59%; margin-bottom:10px" />
 </div>
 
+<br>
+
 __Español__
 
 Recogimos un coche de alquiler por la mañana y nos dirigimos hacia el oeste hacia el Parque Regional Waitakere Ranges. Este parque tenía un excelente centro de visitantes donde nos recomendaron algunas caminatas cortas de un día. Condujimos a través del parque hasta la costa y caminamos a lo largo del acantilado hasta “el monte” (como lo llaman los kiwis). Era un paisaje muy tropical y muy húmedo. ¡Las vistas eran increíbles!
