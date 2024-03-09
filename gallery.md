@@ -2,7 +2,7 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-cover:  "/assets/fiordland.jpg"
+cover:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
 main_nav: true
 ---
 
