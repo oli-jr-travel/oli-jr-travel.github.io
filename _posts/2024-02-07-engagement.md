@@ -29,17 +29,23 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
   <img src="/oli-jr-travel/assets/photos/engagement/engagement_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
-</br>
+<p></p>
+<p></p>
+<p></p>
 
-</br>
+<p> </br> </p>
+<p> </br> </p>
+<p> </br> </p>
+<p> </br> </p>
+<p> </br> </p>
+<p> </br> </p>
 
-</br>
+<p>  </p>
 
-</br>
 
 __Español__
 
-testing 11
+testing 12
 
 ¡¡Nos comprometimos!! Después de movernos de nuestro apartamento, Junior y yo regresamos a casa con nuestras familias. Había pasado una semana desde que nos vimos cuando Junior me recogió a última hora de la mañana del Miércoles 7 de Febrero. Nos subimos al coche y nos dirigimos hacia el este, hacia Palm Springs. Condujimos hasta la entrada del tranvía y subimos a la siguiente góndola. Hacía un clima perfecto en tierra, pero tan pronto como llegamos lo suficientemente alto en la góndola, la nieve en la ladera de la montaña tenía literalmente dos pies de profundidad: ¡parecía que íbamos a visitar al Grinch!
 
