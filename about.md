@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![image tooltip here](/assets/oli-jr.jpg)
+![image tooltip here](/assets/home_routebourn_track.jpg)
 
 <br />
 
