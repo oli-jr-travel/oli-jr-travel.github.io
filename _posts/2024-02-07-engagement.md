@@ -17,16 +17,16 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 
 <img src="/oli-jr-travel/assets/photos/engagement/engagement_1.jpg" style="width:100%">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/engagement/engagement_2.jpg" style="float:left; width:49%; margin-right:5px; margin-bottom:5px" />
-  <img src="/oli-jr-travel/assets/photos/engagement/engagement_3.jpg" style="float:left; width:49%; margin-bottom:5px" />
+  <img src="/oli-jr-travel/assets/photos/engagement/engagement_2.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/engagement/engagement_3.jpg" style="float:left; width:48%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/engagement/engagement_4.jpg" style="width:100%; margin-bottom:5px">
-<img src="/oli-jr-travel/assets/photos/engagement/engagement_5.jpg" style="width:100%; margin-bottom:5px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/engagement/engagement_6.jpg" style="float:left; width:49%; margin-right:5px; margin-bottom:5px" />
-  <img src="/oli-jr-travel/assets/photos/engagement/engagement_7.jpg" style="float:left; width:49%; margin-bottom:5px" />
+  <img src="/oli-jr-travel/assets/photos/engagement/engagement_6.jpg" style="float:left; width:48%; margin-right:10px; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/engagement/engagement_7.jpg" style="float:left; width:48%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/engagement/engagement_8.jpg" style="width:100%; margin-bottom:5px">
+<img src="/oli-jr-travel/assets/photos/engagement/engagement_8.jpg" style="width:100%; margin-bottom:10px">
 
 __Español__
 
