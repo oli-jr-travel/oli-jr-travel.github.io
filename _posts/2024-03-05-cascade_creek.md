@@ -22,6 +22,8 @@ Once night time rolled around, I was so excited to see the sky since it would be
 <img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_3.jpg" style="width:100%; margin-bottom:10px">
 <img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_4.jpg" style="width:100%; margin-bottom:10px">
 
+<br clear="all" />
+
 __Español__
 
 Después de viajar sin parar durante 3 semanas seguidas, hoy nos sentimos agotados cuando nos despertamos. Comenzamos el día tarde y cuando finalmente nos levantamos, notamos que las nubes estaban escasas y el sol brillaba. Hacía un clima tan perfecto, así que hoy nos quedamos en el campamento de Cascade Creek todo el día. Decidimos hacer la caminata por la naturaleza hasta el lago justo al lado de nosotros, Gunn Lake. Toda la caminata fue en una espesa selva tropical: ¡el musgo lo cubría todo y dondequiera que miraras era tan verde!
