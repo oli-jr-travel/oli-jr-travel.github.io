@@ -5,8 +5,8 @@ date:   2024-03-06T00:00:00-00:00
 author: Olivia & Junior
 categories:
   - New Zealand
-cover:  "/assets/photos/routeburn_track/routeburn_track_1.jpg"
-thumbnail:  "/assets/photos/routeburn_track/routeburn_track_1.jpg"
+cover:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
+thumbnail:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
 ---
 
 Today we tackled a small portion of another Great Walk – the Routeburn Track. This track starts at a spot called “The Divide,” which is where, a very very long time ago, a glacier divided the landscape into three distinct pieces. The first portion of the hike was in moss-covered rainforest, which covers most of the lower portion of the mountains in this region. We reached a fork in the road: the left track led down to Lake Howden and the right track led up to Key Summit. We went right and continued to climb the mountainside. Very soon, the tree coverage broke and we entered an alpine ecosystem. Once we reached Key Summit, it almost felt like we were in a Japanese garden, there were small bonsai-looking trees all around and natural ponds reflecting the scenery. We took in the views for a bit before heading back down to the fork to follow the trail towards Lake Howden. 
@@ -15,15 +15,13 @@ The trail to the lake was down the mountain, so we went even deeper into the fer
 
 <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_1.jpg" style="width:100%; margin-bottom:10px">
 <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_2.jpg" style="width:100%; margin-bottom:10px">
-
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_3.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_5.jpg" style="float:left; width:49%; margin-right:10px; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 __Español__
