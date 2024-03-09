@@ -17,6 +17,8 @@ We will be spending the next couple of days in Queenstown before picking up our 
   <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
+<br clear="all" />
+
 __Español__
 
 Pasaremos los próximos días en Queenstown antes de alquilar nuestra autocaravana y emprender nuestra próxima aventura. Queenstown es una ciudad con un lago alpino realmente linda en la región sur de la Isla Sur. Es muy turístico y tiene una amplia gama de cosas para hacer, como paseos en góndola, trineos, excursiones en lancha motora, ciclismo de montaña, bebidas y comidas frente al mar, jardines, caminatas y mucho más. Nos lo tomamos con calma el par de días que tuvimos aquí, ya que acabamos de terminar unos días de mochilero y anticipamos algo más de campamento en los próximos días. Fuimos al gimnasio de escalada local, visitamos un par de mercados emergentes de artesanía semanales y probamos algunos restaurantes, cafés y bares locales.
