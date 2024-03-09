@@ -27,6 +27,8 @@ The trail to the lake was down the mountain, so we went even deeper into the fer
   <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
+<br clear="all" />
+
 __Español__
 
 Hoy abordamos una pequeña parte de otra Gran Caminata: el Routeburn Track. Esta pista comienza en un lugar llamado "The Divide", que es donde, hace mucho tiempo, un glaciar dividió el paisaje en tres partes distintas. La primera parte de la caminata fue en un bosque lluvioso cubierto de musgo, que cubre la mayor parte de la parte baja de las montañas de esta región. Llegamos a una bifurcación en el camino: el camino de la izquierda conducía al lago Howden y el camino de la derecha conducía a Key Summit. Tomamos a la derecha y seguimos subiendo la ladera de la montaña. Muy pronto, la cobertura arbórea se rompió y entramos en un ecosistema alpino. Una vez que llegamos a Key Summit, casi nos sentimos como si estuviéramos en un jardín japonés, había pequeños árboles que parecían bonsáis por todas partes y estanques naturales que reflejaban el paisaje. Disfrutamos un rato de las vistas antes de regresar a la bifurcación para seguir el sendero hacia el lago Howden.
