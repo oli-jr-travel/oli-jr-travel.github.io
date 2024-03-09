@@ -31,40 +31,6 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 
 <br clear="all" />
 
-<br>
-<br>
-<br>
-<br>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-<p> &nbsp; </p>
-<p> &nbsp; </p>
-<p> &nbsp; </p>
-
-<p>  </p>\
-<p>  </p>\
-<p>  </p>\
-
-<p>  </p>  
-<p>  </p>  
-<p>  </p>  
-
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-<p>  </p><br>
-
-
 __Español__
 
 testing 15
