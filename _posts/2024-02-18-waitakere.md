@@ -24,7 +24,7 @@ After our day of hiking, we drove back to Auckland and hopped on the InterCity b
   <img src="/oli-jr-travel/assets/photos/waitakere/waitakere_5.jpg" style="float:right; width:59%; margin-bottom:10px" />
 </div>
 
-<br>
+<br clear="all" />
 
 __Español__
 
