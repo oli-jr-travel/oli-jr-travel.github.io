@@ -14,8 +14,8 @@ Today we tackled a small portion of another Great Walk – the Routeburn Track. 
 The trail to the lake was down the mountain, so we went even deeper into the fern-filled rainforest. There was so much diversity in all the ferns growing – you can see three distinct ferns in the picture I took. The lake was marshy and we couldn’t see too much of it from our vantage point. Junior was able to find reasonably sturdy ground to stand on and tried skipping rocks since the lake was so calm. Just before we left, the last rock he skipped hopped about 15 times! We hiked back to the van and made our way to our next campsite at Henry Creek. This campsite puts us a bit closer to the check-in location for our tour tomorrow, since we’ll need to be there at 7AM.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_7.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
