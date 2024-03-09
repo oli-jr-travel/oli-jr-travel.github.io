@@ -30,6 +30,7 @@ We had a celebratory drink at the bar and then made our way to the restaurant fo
 </div>
 
 <br clear="all" />
+<br>
 
 __Español__
 
