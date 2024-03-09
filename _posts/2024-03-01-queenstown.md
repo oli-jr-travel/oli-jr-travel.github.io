@@ -1,26 +1,22 @@
 ---
 layout: post
-title:  "Waiheke Island"
-date:   2024-02-17T00:00:00-00:00
+title:  "Queenstown"
+date:   2024-03-01T00:00:00-00:00
 author: Olivia & Junior
 categories:
   - New Zealand
-cover:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
-thumbnail:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
+cover:  "/assets/photos/queenstown/queenstown_1.jpg"
+thumbnail:  "/assets/photos/queenstown/queenstown_1.jpg"
 ---
 
-We spent the day roaming around Waiheke Island just off the coast of Auckland. After taking the train into downtown Auckland, we boarded the ferry and made it to Waiheke in 50 minutes. Once we landed, we walked into town for lunch. From there we boarded the bus to another portion of the island where we were able to walk along the beach. We continued our walk up a long flight of stairs and ended up at [Casita Miro](https://www.casitamiro.co.nz/), a Spanish-inspired winery. It felt like we had just walked into the Cheetah Girls set in Barcelona! We bought a flight of wine to taste and some tapas-styled snacks to munch on while sitting on the lawn overlooking the vineyard and restaurant. It was such a great time! Oli got a little taste of what winery life would be like here in New Zealand. Then we hopped back on the next ferry and got to watch the sun set over Auckland on our ride back. We sat on the top deck and it was so windy the entire ride, but well worth it for the views!
+We will be spending the next couple of days in Queenstown before picking up our campervan rental and heading on our next adventure. Queenstown is a really cute alpine lake town in the southern region of the South Island. It is very touristy, and has a wide range of things to do like gondola rides, luging, jet boat excursions, mountain biking, waterfront drinking and dining, gardens, hiking, and so much more. We took it easy the couple of days we had here, since we just came off a few days of backpacking and were anticipating some more camping in the next few days. We went to the local climbing gym, checked out a couple of weekly craft pop-up markets, and tried out a few local eateries, cafes and bars.
 
-<img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
-</div>
-<div float="left">
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/waiheke_island/waiheke_island_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 __Español__
 
-Pasamos el día recorriendo la isla Waiheke, frente a la costa de Auckland. Después de tomar el tren hasta el centro de Auckland, abordamos el ferry y llegamos a Waiheke en 50 minutos. Una vez aterrizamos, caminamos hasta el pueblo para almorzar. Desde allí abordamos el autobús hacia otra parte de la isla donde pudimos caminar por la playa. Continuamos nuestra caminata subiendo un largo tramo de escaleras y terminamos en Casita Miró, una bodega de inspiración española. ¡Parecía como si acabáramos de entrar al set de Cheetah Girls en Barcelona! Compramos una copa de vino para degustar y algunos bocadillos estilo tapas para comer mientras estábamos sentados en el césped con vista al viñedo y al restaurante. ¡Fue un gran momento! Oli tuvo una pequeña muestra de cómo sería la vida en una bodega aquí en Nueva Zelanda. Luego volvimos a subir al siguiente ferry y pudimos ver la puesta de sol sobre Auckland en nuestro viaje de regreso. Nos sentamos en la cubierta superior y hacía mucho viento durante todo el viaje, ¡pero valió la pena por las vistas!
+Pasaremos los próximos días en Queenstown antes de alquilar nuestra autocaravana y emprender nuestra próxima aventura. Queenstown es una ciudad con un lago alpino realmente linda en la región sur de la Isla Sur. Es muy turístico y tiene una amplia gama de cosas para hacer, como paseos en góndola, trineos, excursiones en lancha motora, ciclismo de montaña, bebidas y comidas frente al mar, jardines, caminatas y mucho más. Nos lo tomamos con calma el par de días que tuvimos aquí, ya que acabamos de terminar unos días de mochilero y anticipamos algo más de campamento en los próximos días. Fuimos al gimnasio de escalada local, visitamos un par de mercados emergentes de artesanía semanales y probamos algunos restaurantes, cafés y bares locales.
