@@ -19,9 +19,9 @@ We continued on our path and made it to the gondola. Junior was so fascinated wi
   <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_8.jpg" style="width:60%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_8.jpg" style="width:40%; margin-bottom:10px">
 
-Looks like Mercedes F1 has a new driver to replace Lewis Hamilton next season..
+<p style="text-align: center;">Looks like Mercedes F1 has a new driver to replace Lewis Hamilton next season..</p>
 
 <br clear="all" />
 
