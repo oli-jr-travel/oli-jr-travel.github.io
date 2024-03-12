@@ -4,7 +4,7 @@ title:  "Cross over to the South Island"
 date:   2024-02-24T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/crossover_south_island/ferry_south_island.jpg"
 thumbnail:  "/assets/photos/crossover_south_island/ferry_south_island.jpg"
 ---
