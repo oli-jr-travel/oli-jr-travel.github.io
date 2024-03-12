@@ -11,7 +11,12 @@ thumbnail:  "/assets/photos/waiotapu_thermal/waiotapu_thermal_1.jpg"
 
 Before leaving Rotorua, we decided to make one quick site-seeing stop. We went to the Waiotapu Thermal Wonderland. This is a highly active geothermal region because the area is inside the Taupō Volcanic Zone. The area contains many dramatic geothermal features including hot springs of various colors, boiling mud pools, and the Lady Knox Geyser. One of the most prominent features is The Champagne Pool hot spring. The pool has striking hues of orange, yellow and green caused by a combination of minerals and chemicals present. The water is constantly releasing carbon dioxide which is where the pools get the champagne name from. One of the more peculiar areas was the Devil’s Bath, in which the water was an extremely neon green color. It looked as green as Nickelodeon slime. One thing to note about the entire area is there is a lot of Sulfur which makes the place VERY smelly – Oli wasn’t too fond of that hahaha!
 
-Images
+
+<img src="/oli-jr-travel/assets/photos/waiotapu_thermal/waiotapu_thermal_1.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/waiotapu_thermal/waiotapu_thermal_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/waiotapu_thermal/waiotapu_thermal_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
 
 __Español__
 
