@@ -2,7 +2,7 @@
 layout: post
 title:  "Queenstown"
 date:   2024-03-01T00:00:00-00:00
-author: Olivia & Junior
+author: Oli & Junior
 categories:
   - 2 | New Zealand
 cover:  "/assets/photos/queenstown/queenstown_1.jpg"
