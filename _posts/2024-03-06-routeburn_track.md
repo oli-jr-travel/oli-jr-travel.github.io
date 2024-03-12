@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Routeburn Track & Key Summit"
+title:  "Fiordland NP | Routeburn Track & Key Summit"
 date:   2024-03-06T00:00:00-00:00
 author: Olivia & Junior
 categories:
