@@ -4,7 +4,7 @@ title:  "Waiotapu Thermal Wonderland"
 date:   2024-02-23T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/waiotapu_thermal/waiotapu_thermal_1.jpg"
 thumbnail:  "/assets/photos/waiotapu_thermal/waiotapu_thermal_1.jpg"
 ---
