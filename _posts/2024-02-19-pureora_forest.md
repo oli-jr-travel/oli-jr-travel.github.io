@@ -4,7 +4,7 @@ title:  "Pureora Forest Park"
 date:   2024-02-19T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/pureora_forest/pureora_forest_1.jpg"
 thumbnail:  "/assets/photos/pureora_forest/pureora_forest_1.jpg"
 ---
