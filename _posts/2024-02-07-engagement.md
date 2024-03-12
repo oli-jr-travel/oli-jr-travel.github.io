@@ -2,7 +2,7 @@
 layout: post
 title:  "Aerial Tramway Engagement"
 date:   2024-2-7T00:00:00-00:00
-author: Olivia
+author: Oli
 categories:
   - 1 | Mt. San Jacinto
 cover:  "/assets/photos/engagement/engagement_1.jpg"
