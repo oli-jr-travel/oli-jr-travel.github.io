@@ -2,7 +2,7 @@
 layout: post
 title:  "Waiheke Island"
 date:   2024-02-17T00:00:00-00:00
-author: Olivia & Junior
+author: Oli & Junior
 categories:
   - 2 | New Zealand
 cover:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
