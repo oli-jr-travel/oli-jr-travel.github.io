@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cascade Creek & Gunn Lake"
+title:  "Fiordland NP | Cascade Creek & Gunn Lake"
 date:   2024-03-05T00:00:00-00:00
 author: Olivia & Junior
 categories:
