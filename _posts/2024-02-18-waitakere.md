@@ -4,7 +4,7 @@ title:  "Waitakere Ranges Regional Park"
 date:   2024-02-18T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/waitakere/waitakere_1.jpg"
 thumbnail:  "/assets/photos/waitakere/waitakere_1.jpg"
 ---
