@@ -4,7 +4,7 @@ title:  "Queenstown Gondola"
 date:   2024-03-08T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/queenstown/queenstown_4.jpg"
 thumbnail:  "/assets/photos/queenstown/queenstown_4.jpg"
 ---
