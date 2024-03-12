@@ -17,18 +17,10 @@ English post
   <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:30%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="float:left; width:30%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="float:right; width:30%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-
-testing 1
-
-<div style="display: flex; justify-content: center;">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="width:30%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="width:30%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="width:30%; margin-bottom:10px" />
-</div>
+<img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
