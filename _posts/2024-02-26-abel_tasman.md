@@ -4,7 +4,7 @@ title:  "Abel Tasman National Park"
 date:   2024-02-26T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/abel_tasman/abel_tasman_1.jpg"
 thumbnail:  "/assets/photos/abel_tasman/abel_tasman_1.jpg"
 ---
