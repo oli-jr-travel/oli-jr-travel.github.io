@@ -4,7 +4,7 @@ title:  "Routeburn Track & Key Summit"
 date:   2024-03-06T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
 thumbnail:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
 ---
