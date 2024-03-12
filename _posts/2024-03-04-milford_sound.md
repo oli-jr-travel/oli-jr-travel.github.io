@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiordland NP | Milford Sound"
 date:   2024-03-4T00:00:00-00:00
-author: Olivia & Junior
+author: Oli & Junior
 categories:
   - 2 | New Zealand
 cover:  "/assets/photos/milford_sound/milford_sound_1.jpg"
