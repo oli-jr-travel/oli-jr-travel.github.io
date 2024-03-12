@@ -4,7 +4,7 @@ title:  "Waiheke Island"
 date:   2024-02-17T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
 thumbnail:  "/assets/photos/waiheke_island/waiheke_island_1.jpg"
 ---
