@@ -2,7 +2,7 @@
 layout: post
 title:  "Fiordland NP | Routeburn Track & Key Summit"
 date:   2024-03-06T00:00:00-00:00
-author: Olivia & Junior
+author: Oli & Junior
 categories:
   - 2 | New Zealand
 cover:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
