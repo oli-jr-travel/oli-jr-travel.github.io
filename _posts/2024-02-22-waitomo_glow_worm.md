@@ -21,6 +21,8 @@ After this, we boarded a small boat and were navigated through the caves by our 
   <img src="/oli-jr-travel/assets/photos/waitomo_glow_worm/waitomo_glow_worm_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
+<br clear="all" />
+
 __Español__
 
 Hoy hicimos un recorrido por las cuevas de luciérnagas de Waitomo. Caminamos hacia abajo y hacia las cuevas guiados por nuestro guía turístico. Un poco sobre las cuevas: están en tierra nativa maorí y fueron exploradas por primera vez por el jefe maorí local Tane Tinorau en 1877. Desde 1906 hasta 1988, la cueva estuvo a cargo del gobierno de Nueva Zelanda, hasta que fue devuelta a los descendientes de su original. propietarios en 1989. Más del 80% del personal empleado en las cuevas son descendientes directos del jefe Tane Tinorau y su esposa Huti.
