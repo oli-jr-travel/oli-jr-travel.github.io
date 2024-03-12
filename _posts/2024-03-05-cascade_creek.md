@@ -4,7 +4,7 @@ title:  "Cascade Creek & Gunn Lake"
 date:   2024-03-05T00:00:00-00:00
 author: Olivia & Junior
 categories:
-  - New Zealand
+  - 2 | New Zealand
 cover:  "/assets/photos/cascade_creek/cascade_creek_3.jpg"
 thumbnail:  "/assets/photos/cascade_creek/cascade_creek_3.jpg"
 ---
