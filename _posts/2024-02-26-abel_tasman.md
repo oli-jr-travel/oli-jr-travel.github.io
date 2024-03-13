@@ -35,6 +35,8 @@ Now that we were settled in for the night, it was inevitable — we ran into the
 
 <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_7.jpg" style="width:50%; margin-bottom:10px">
 
+<br clear="all" />
+
 At the crack of dawn we were up and walking, but we still had to take off our shoes to traverse the ankle deep water still remaining in Torrent Bay. We hiked to Apple Tree Bay for our second night of camping. This campsite was literally on the beach, and of course our neighboring Wekas kept us on our toes all evening.
 
 <div float="left">
