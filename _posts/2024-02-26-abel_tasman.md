@@ -46,9 +46,6 @@ At the crack of dawn we were up and walking, but we still had to take off our sh
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_8.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_9.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-
-<br clear="all" />
-
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_10.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_11.jpg" style="float:right; width:49%; margin-bottom:10px" />
