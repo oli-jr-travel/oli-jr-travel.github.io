@@ -15,7 +15,7 @@ The Abel Tasman is one of the 10 Great Walks in New Zealand and is located on th
   <li>Tramping - Multi-day overnight backpacking in the outdoors; this can include tent camping, staying in one of the many huts built along trails (otherwise referred to as “hut hikes”), or extended hiking.</li>
   <li>Backpacking - The term backpacking is more commonly used for traveling between cities and countries with a backpack as a tourist like around Europe or New Zealand. A bit confusing because in the States we use the term backpacking for both tourism and outdoor recreation.</li>
   <li>Track - A hiking trail. They vary in difficulty and trail development. For example some portions of Abel Tasman just use periodic orange trail markers over the bays, as they can’t maintain a trail over water crossings. The Department of Conservation defines 6 track difficulties.</li>
-<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_2.jpg" style="width:25%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_2.jpg" style="width:30%; margin-bottom:10px">
   <li>Great Walk - 10 different multi-day  tramping tracks in some of New Zealand’s most incredible natural landscapes.</li>
   <li>Bush - Any undeveloped land, such as forests, wilderness areas, etc. are referred to as “the bush.” It is common to say you are going “into the bush” when going outdoors.</li>
 </ul>
@@ -26,6 +26,11 @@ We only did a portion of this walk and spent two nights and three days on the tr
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
+
+<p style="text-align: center;">Due to the shallow nature of the bay, they use tractors to launch boats out to sea.</p>
+
+<p style="text-align: center;"><strong>ES:</strong>Debido a la poca profundidad de la bahía, utilizan tractores para lanzar los barcos al mar.</p>
+
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
@@ -35,18 +40,12 @@ Now that we were settled in for the night, it was inevitable — we ran into the
 
 <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_7.jpg" style="width:50%; margin-bottom:10px">
 
-<br clear="all" />
-
 At the crack of dawn we were up and walking, but we still had to take off our shoes to traverse the ankle deep water still remaining in Torrent Bay. We hiked to Apple Tree Bay for our second night of camping. This campsite was literally on the beach, and of course our neighboring Wekas kept us on our toes all evening.
 
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_8.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_9.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-
-<p style="text-align: center;">Due to the shallow nature of the bay, they use tractors to launch boats out to sea.</p>
-
-<p style="text-align: center;"><strong>ES:</strong>Debido a la poca profundidad de la bahía, utilizan tractores para lanzar los barcos al mar.</p>
 
 <br clear="all" />
 
