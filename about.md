@@ -13,6 +13,7 @@ Hello and welcome to Oli & Junior’s travel blog! We decided to leave our jobs 
 
 **ES:** ¡Hola y bienvenido al blog de viajes de Oli & Junior! Decidimos dejar nuestros trabajos a principios de 2024 para viajar un rato por el mundo. Estaremos fuera entre 6 meses y un año y decidimos crear este blog para que todas nuestras personas favoritas puedan seguir nuestras aventuras. Desde la página de inicio, puede hacer clic para leer nuestras publicaciones más recientes. Si hace clic en [Posts](https://gramirezjr.github.io/oli-jr-travel/posts/) en la esquina superior derecha, será dirigido a nuestra lista de publicaciones organizadas por país y en orden cronológico. También tenemos una galería de todas nuestras fotos para que puedas desplazarte en [Gallery](https://gramirezjr.github.io/oli-jr-travel/gallery/) al lado del botón "Posts".
 
+<br />
 
 You can sign up to receive email updates whenever we make a new post by subscribing below:
 
