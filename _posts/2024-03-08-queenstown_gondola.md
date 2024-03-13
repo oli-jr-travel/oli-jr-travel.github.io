@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Queenstown Gondola"
-date:   2024-03-08T00:00:00-00:00
+date:   2025-03-08T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 2 | New Zealand
