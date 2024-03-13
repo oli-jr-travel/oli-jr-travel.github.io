@@ -39,17 +39,14 @@ __Español__
 
 El Abel Tasman es uno de los 10 Grandes Paseos de Nueva Zelanda y está ubicado en la costa noroeste de la Isla Sur. Una cosa que hemos aprendido después de estar un tiempo en Nueva Zelanda es su vocabulario diferente para sus actividades al aire libre. Definiremos algunas de las palabras más utilizadas a continuación:
 
-Caminata: se refieren a las caminatas de un día más cortas como “caminatas”.
-
-Vagabundo: mochilero nocturno de varios días al aire libre; esto puede incluir acampar en tiendas de campaña, alojarse en una de las muchas cabañas construidas a lo largo de los senderos (también conocidas como “excursiones a cabañas”) o caminatas prolongadas.
-
-Mochilero: el término mochilero se usa más comúnmente para viajar entre ciudades y países con una mochila como turista, como por Europa o Nueva Zelanda. Un poco confuso porque en Estados Unidos usamos el término mochilero tanto para turismo como para recreación al aire libre.
-
-Pista: una ruta de senderismo. Varían en dificultad y desarrollo del sendero. Por ejemplo, algunas partes de Abel Tasman simplemente usan marcadores de senderos naranjas periódicos sobre las bahías, ya que no pueden mantener un sendero sobre los cruces de agua. El Departamento de Conservación define 6 vías de dificultad.
-
-Gran Caminata: 10 rutas diferentes de senderismo de varios días en algunos de los paisajes naturales más increíbles de Nueva Zelanda.
-
-Arbusto: cualquier terreno no urbanizado, como bosques, áreas silvestres, etc., se conoce como "el arbusto". Es común decir que se va “al monte” cuando se sale al aire libre.
+<ul>
+  <li>Caminata: se refieren a las caminatas de un día más cortas como “caminatas”.</li>
+  <li>Vagabundo: mochilero nocturno de varios días al aire libre; esto puede incluir acampar en tiendas de campaña, alojarse en una de las muchas cabañas construidas a lo largo de los senderos (también conocidas como “excursiones a cabañas”) o caminatas prolongadas.</li>
+  <li>Mochilero: el término mochilero se usa más comúnmente para viajar entre ciudades y países con una mochila como turista, como por Europa o Nueva Zelanda. Un poco confuso porque en Estados Unidos usamos el término mochilero tanto para turismo como para recreación al aire libre.</li>
+  <li>Pista: una ruta de senderismo. Varían en dificultad y desarrollo del sendero. Por ejemplo, algunas partes de Abel Tasman simplemente usan marcadores de senderos naranjas periódicos sobre las bahías, ya que no pueden mantener un sendero sobre los cruces de agua. El Departamento de Conservación define 6 vías de dificultad.</li>
+  <li>Gran Caminata: 10 rutas diferentes de senderismo de varios días en algunos de los paisajes naturales más increíbles de Nueva Zelanda.</li>
+  <li>Arbusto: cualquier terreno no urbanizado, como bosques, áreas silvestres, etc., se conoce como "el arbusto". Es común decir que se va “al monte” cuando se sale al aire libre.</li>
+</ul>
 
 Solo hicimos una parte de esta caminata y pasamos dos noches y tres días en el sendero. Hay algunas maneras de comenzar la caminata: puedes caminar desde el comienzo del sendero en Marahau o puedes tomar un taxi acuático hasta cualquier parte del sendero y caminar de regreso a Marahau. Decidimos tomar un taxi acuático hasta Bark Bay y caminar de regreso. Abordamos el taxi acuático a las 9 de la mañana y nos dirigimos hacia la costa. Vimos Split Rock, focas tomando el sol y todas las demás bahías a lo largo del camino. Llegamos a Bark Bay y comenzamos nuestra caminata hasta Torrent Bay, donde acamparíamos para pasar la noche. Una cosa que hace que Abel Tasman sea único son sus múltiples cruces de bahías. Existe una diferencia muy dramática entre la marea alta y la baja a lo largo de todo el parque, pero hay algunas bahías que deben cruzarse y se recomienda a los excursionistas que lo hagan durante la marea baja, pero pueden intentar cruzar con la marea alta si se consideran aptos. Llegamos a Torrent Bay y acampamos para pasar la noche, sabiendo que tendríamos que despertarnos a las 6 am para cruzar la marea baja.
 
