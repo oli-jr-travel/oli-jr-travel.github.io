@@ -21,7 +21,7 @@ description: >
 # root of your server.
 baseurl: "/oli-jr-travel" # the subpath of your site, e.g. /blog/
 url: "https://gramirezjr.github.io" # the base hostname & protocol for your site
-cover: "/assets/about_abel_tasman.jpg"
+cover: "/assets/home_abel_tasman.jpg"
 logo: "/assets/oli-jr-logo.png"
 
 # Build settings
