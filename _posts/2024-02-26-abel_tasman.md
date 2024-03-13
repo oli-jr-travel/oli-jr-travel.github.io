@@ -15,13 +15,10 @@ The Abel Tasman is one of the 10 Great Walks in New Zealand and is located on th
   <li>Tramping - Multi-day overnight backpacking in the outdoors; this can include tent camping, staying in one of the many huts built along trails (otherwise referred to as “hut hikes”), or extended hiking.</li>
   <li>Backpacking - The term backpacking is more commonly used for traveling between cities and countries with a backpack as a tourist like around Europe or New Zealand. A bit confusing because in the States we use the term backpacking for both tourism and outdoor recreation.</li>
   <li>Track - A hiking trail. They vary in difficulty and trail development. For example some portions of Abel Tasman just use periodic orange trail markers over the bays, as they can’t maintain a trail over water crossings. The Department of Conservation defines 6 track difficulties.</li>
-<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_1.jpg" style="width:50%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_2.jpg" style="width:40%; margin-bottom:10px">
   <li>Great Walk - 10 different multi-day  tramping tracks in some of New Zealand’s most incredible natural landscapes.</li>
   <li>Bush - Any undeveloped land, such as forests, wilderness areas, etc. are referred to as “the bush.” It is common to say you are going “into the bush” when going outdoors.</li>
 </ul>
-
-<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_1.jpg" style="width:50%; margin-bottom:10px">
-
 
 We only did a portion of this walk and spent two nights and three days on the trail. There's a few ways to start the hike, you can either walk in from the trailhead in Marahau or you can take an aqua taxi to any portion of the trail and walk back into Marahau. We decided to take an aqua taxi to Bark Bay and hike back. We boarded the aqua taxi at 9AM and made our way up the coast. We saw Split Rock, sunbathing seals, and all the other bays along the way. We made it to Bark Bay and started our hike to Torrent Bay, where we'd be camping for the night. One thing that makes the Abel Tasman unique is its multiple bay crossings. There is such a dramatic difference between high and low tide along the entirety of the park, but there are a few bays that need to be crossed and hikers are advised to do so at low tide, but are welcome to attempt a high tide crossing if they deem themselves fit. We made it to Torrent Bay and camped for the night, knowing we'd need to wake up at 6am for the low tide crossing. 
 
@@ -34,8 +31,9 @@ We only did a portion of this walk and spent two nights and three days on the tr
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
-<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_7.jpg" style="float:left; width:50%; margin-bottom:10px">
 Now that we were settled in for the night, it was inevitable — we ran into the Marahau Mafia. Junior was on high alert, but that didn’t keep them from making their attempts to rob us blind – the Weka were out to snatch our stuff! Weka are these cute flightless birds (they look like tropical chickens) that roam around forested parts of New Zealand digging for food, but when they are located in areas that are highly trafficked by humans, they know that those same humans bring their own food into the park. So of course, they tried poking around our site to see if there was anything to take. We've been told they know how to unzip zippers, can open tents (we heard from one backpacker that a Weka was opening her tent while she was inside changing!), and that if anything of ours goes missing, just check the surrounding bushes and we'll surely find it! 
+
+<img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_7.jpg" style="width:50%; margin-bottom:10px">
 
 At the crack of dawn we were up and walking, but we still had to take off our shoes to traverse the ankle deep water still remaining in Torrent Bay. We hiked to Apple Tree Bay for our second night of camping. This campsite was literally on the beach, and of course our neighboring Wekas kept us on our toes all evening.
 
