@@ -29,7 +29,7 @@ We only did a portion of this walk and spent two nights and three days on the tr
 
 <p style="text-align: center;">Due to the shallow nature of the bay, they use tractors to launch boats out to sea.</p>
 
-<p style="text-align: center;"><strong>ES:</strong>Debido a la poca profundidad de la bahía, utilizan tractores para lanzar los barcos al mar.</p>
+<p style="text-align: center;"><strong>ES:</strong> Debido a la poca profundidad de la bahía, utilizan tractores para lanzar los barcos al mar.</p>
 
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/abel_tasman/abel_tasman_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
