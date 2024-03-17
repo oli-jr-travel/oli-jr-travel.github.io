@@ -1,6 +1,9 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 
+# Gems
+gems: [jekyll-paginate]
+
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
