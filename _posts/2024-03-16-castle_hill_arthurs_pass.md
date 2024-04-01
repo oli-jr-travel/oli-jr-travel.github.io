@@ -18,10 +18,10 @@ After Castle Hill we made our way to Arthur’s Pass National Park for a waterfa
 <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_1.jpg" style="width:100%; margin-bottom:10px">
 <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_5.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_3.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
