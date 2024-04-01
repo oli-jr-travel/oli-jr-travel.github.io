@@ -1,32 +1,35 @@
 ---
 layout: post
-title:  "Queenstown Gondola"
-date:   2025-03-08T00:00:00-00:00
+title:  "Christchurch"
+date:   2025-03-14T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 2 | New Zealand
-cover:  "/assets/photos/queenstown/queenstown_4.jpg"
-thumbnail:  "/assets/photos/queenstown/queenstown_4.jpg"
+cover:  "/assets/photos/christchurch/christchurch_5.jpg"
+thumbnail:  "/assets/photos/christchurch/christchurch_5.jpg"
 ---
 
-We returned to Queenstown today to return the van. We were so sad to have our van life adventure come to an end, but were so happy to have had as much fun as we did with it. When we returned to town, we dropped our bags off at our hostel and made our way into town. We grabbed wagyu burgers at a local joint and they were so delicious! Then we decided the weather was perfect for luging, so we walked through town to get there. On the way, we passed a park where an adult recreational rugby game was happening. We stopped and watched for a bit and oh my gosh could this group of seeming 50 - 65 year olds absolutely CRUSH IT! 
+Our drive from Lake Tekapo to Christchurch was eventful – not the drive per se, but we did make one bathroom pitstop where we came across an empty children’s playground and let me tell you, if there’s one thing that Kiwis are doing absolutely right, it’s their playgrounds. These things are unparalleled – America could NEVER. We have seen (and played at) so many parks at this point and some of the funnest things we’ve been able to do include: jumping pillows, literal ziplines, hamster wheels, fulfilling my farmer potential on model tractors, swing sets, climbing walls and honestly so much more. We only ever dare to play in the parks if they're empty, but gosh are we jealous of the kids who live here and get to use these on the regular!
 
-We continued on our path and made it to the gondola. Junior was so fascinated with all the mechanisms that made the different parts of this machine work so cohesively. We stood and watched the gondola run for a while before actually getting on it. We also got to watch mountain bikers hop on the gondola lifts modified to carry them and their bikes up the mountain. Once we made it to the top, it was time to luge! We put our little helmets on (and hoped to god we wouldn’t get lice!) and made our way to the next lift to take us even further up (We were a little nervous Oli wasn't going to be tall enough to ride on her own, but thank god she just cleared it hahaha! - Junior).We got a crash course lesson from one of the luge employees and after maybe 2 minutes of practicing our starting/stopping/turning, we were “licensed” (in the form of a little stamp that said “LUGE”) and ready to hit the track! Oh my gosh we had so much fun – Junior and his need for speed sent him FLYING down this track and catching air over multiple small jumps. 
+Anyways, we made it to our final stop in New Zealand – Christchurch. We won’t be flying to Australia until the 19th, but for the next 5 days we will be hanging in and around Christchurch. On our first night we were able to check out the local climbing gym, Uprising. This place was really cool, it was bouldering only but also offered a variety of yoga classes. It has its own cafe that serves anything from coffee to beer to pizzas and pastries. For our first couple of nights, we stayed at a pretty upscale hostel that felt more like a hotel – The Lodge at Bealey Quarter – and were able to hang out there as it poured rain on our second night in Christchurch. 
 
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_4.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_8.jpg" style="width:40%; margin-bottom:10px">
-
-<p style="text-align: center;">Looks like Mercedes F1 has a new driver to replace Lewis Hamilton next season..</p>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
 
 <br clear="all" />
 
 __Español__
 
-Hoy regresamos a Queenstown para devolver la camioneta. Estábamos muy tristes de que nuestra aventura en la vida en furgoneta llegara a su fin, pero estábamos muy felices de habernos divertido tanto como nosotros. Cuando regresamos a la ciudad, dejamos nuestras maletas en nuestro albergue y nos dirigimos a la ciudad. ¡Comimos hamburguesas wagyu en un local local y estaban deliciosas! Luego decidimos que el clima era perfecto para transportarnos, así que caminamos por la ciudad para llegar allí. En el camino, pasamos por un parque donde se estaba llevando a cabo un partido de rugby recreativo para adultos. Nos detuvimos y observamos por un momento y, ¡Dios mío, este grupo de personas que parecían tener entre 50 y 65 años podría APLASTARLO por completo!
+Nuestro viaje desde el lago Tekapo a Christchurch estuvo lleno de acontecimientos; no el viaje en sí, pero hicimos una parada en el baño donde nos encontramos con un parque infantil vacío y déjenme decirles, si hay algo que los kiwis están haciendo absolutamente bien, es su parques infantiles. Estas cosas no tienen paralelo: Estados Unidos NUNCA podría hacerlo. Hemos visto (y jugado en) muchos parques hasta este momento y algunas de las cosas más divertidas que hemos podido hacer incluyen: almohadas para saltar, tirolinas literales, ruedas de hámster, desarrollar mi potencial de granjero en modelos de tractores, columpios, escalar. paredes y sinceramente mucho más. Solo nos atrevemos a jugar en los parques si están vacíos, pero ¡Dios mío, estamos celosos de los niños que viven aquí y pueden usarlos regularmente!
 
-Seguimos nuestro camino y llegamos a la góndola. Junior estaba fascinado con todos los mecanismos que hacían que las diferentes partes de esta máquina funcionaran de manera tan cohesiva. Nos quedamos de pie y observamos la góndola durante un rato antes de subirnos a ella. También pudimos ver a los ciclistas de montaña subirse a los telecabinas modificados para transportarlos a ellos y a sus bicicletas montaña arriba. Una vez que llegamos a la cima, ¡llegó el momento de hacer trineo! Nos pusimos nuestros pequeños cascos (¡y deseamos a Dios que no nos dieran piojos!) y nos dirigimos al siguiente ascensor que nos llevaría aún más arriba (Estábamos un poco nerviosos de que Oli no fuera lo suficientemente alta para montar sola, pero gracias a Dios lo superó ¡jajaja! - Junior). Recibimos una lección intensiva de uno de los empleados de luge y después de unos 2 minutos de practicar nuestro arranque/parada/giro, obtuvimos la “licencia” (en forma de un pequeño sello que decía “LUGE”) y estábamos listos para lanzarnos al agua. ¡pista! Dios mío, nos divertimos mucho: Junior y su necesidad de velocidad lo hicieron VOLAR por esta pista y tomar aire en múltiples saltos pequeños.
+De todos modos, llegamos a nuestra última parada en Nueva Zelanda: Christchurch. No volaremos a Australia hasta el día 19, pero durante los próximos 5 días estaremos en Christchurch y sus alrededores. En nuestra primera noche pudimos visitar el gimnasio de escalada local, Uprising. Este lugar era realmente genial, solo hacía búlder pero también ofrecía una variedad de clases de yoga. Tiene su propia cafetería que sirve desde café hasta cerveza, pizzas y pasteles. Durante nuestro primer par de noches, nos alojamos en un albergue bastante exclusivo que se parecía más a un hotel, The Lodge at Bealey Quarter, y pudimos pasar el rato allí mientras llovía a cántaros en nuestra segunda noche en Christchurch.
