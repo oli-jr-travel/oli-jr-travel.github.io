@@ -24,7 +24,7 @@ We decided to hike into the next valley over, the Tasman Valley. The wind was in
   <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_5.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_5.jpg" style="width:60%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_6.jpg" style="width:60%; margin-bottom:10px">
 
 
 <br clear="all" />
