@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Fiordland NP | Doubtful Sound"
-date:   2025-03-07T00:00:00-00:00
+date:   2024-03-07T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 2 | New Zealand
-cover:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
-thumbnail:  "/assets/photos/routeburn_track/routeburn_track_3.jpg"
+cover:  "/assets/photos/doubtful_sound/doubtful_sound_1.jpg"
+thumbnail:  "/assets/photos/doubtful_sound/doubtful_sound_1.jpg"
 ---
 
 Today was probably one of those days that we will never forget, a day that we will probably think back to often whenever we need an extra bit of calm and grounding. We went into the Doubtful Sound today and just getting there was an experience in itself. It can only be accessed by hopping on a boat in Manapouri to cross the lake where you then take a bus across the Wilmot Pass, where you then board your cruise into the sound. Our bus driver was a lovely man who explained some of the unique history of New Zealand. He talked about the region's UNESCO World Heritage status, invasive land animals, and the “Helicopter Wars.” He also pointed out a remote youth hostel and highlighted the importance of environmental education and conservation for the next generation. 
@@ -18,20 +18,27 @@ It was raining the couple days preceding our tour and the whole duration of our 
 The pictures we’re posting can’t even begin to sum up the beauty we witnessed. This corner of the earth felt so raw and untouched.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_7.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_3.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/routeburn_track/routeburn_track_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/doubtful_sound/doubtful_sound_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
 
 __Español__
 
+Hoy fue probablemente uno de esos días que nunca olvidaremos, un día en el que probablemente recordaremos con frecuencia cada vez que necesitemos un poco más de calma y conexión a tierra. Fuimos a Doubtful Sound hoy y llegar allí fue una experiencia en sí misma. Solo se puede acceder a él subiéndose a un bote en Manapouri para cruzar el lago, donde luego se toma un autobús a través del Paso Wilmot, donde luego se aborda el crucero hacia el estrecho. Nuestro conductor de autobús era un hombre encantador que explicó parte de la historia única de Nueva Zelanda. Habló sobre el estatus de la región como Patrimonio Mundial de la UNESCO, los animales terrestres invasores y las "Guerras de helicópteros". También señaló un albergue juvenil remoto y destacó la importancia de la educación y conservación ambiental para la próxima generación.
+
+Finalmente llegamos al muelle para abordar nuestro crucero en barco de 3 horas por Doubtful Sound y unas pocas palabras para resumir nuestra experiencia sería mágica, de otro mundo y muy húmeda. Todo el Parque Nacional Fiordland, desde Milford Sound en el norte hasta Doubtful Sound en el sur y cada sonido intermedio y más allá, es increíblemente único, realmente diferente a todo lo que Junior o yo hayamos visto antes. Cuando conducíamos hacia Milford Sound, le dije a Junior que este tenía que ser el parque nacional más húmedo en el que había estado (y hemos estado en muchos parques nacionales entre los dos). No me creyó, pero hoy se confirmó: Fiordland es uno de los lugares más húmedos del mundo con una precipitación media anual de 268 pulgadas, ¡y llueve un promedio de 200 días calendario cada año!
+
+Estuvo lloviendo los dos días anteriores a nuestro recorrido y durante toda la duración de nuestro crucero, por lo que esto significaba que las cascadas a lo largo de todo el estrecho fluirían agradablemente y con fuerza. También significaba que estaríamos empapados al final de nuestro recorrido jajaja. Disfrutamos de algunos refrigerios durante el crucero y escuchamos a nuestro guía turístico contarnos la historia de la navegación en los sonidos. Señaló cascadas, nos habló sobre especies nativas e invasoras en las islas que forman el sonido y nos dio una idea de cómo los glaciares que tallaron estos sonidos determinaron gran parte de la composición del medio ambiente. El recorrido fue inolvidable y algo que recomendaríamos a cualquiera que realmente busque experimentar la belleza natural de Nueva Zelanda.
+
+Las imágenes que publicamos no pueden ni siquiera empezar a resumir la belleza que presenciamos. Este rincón de la tierra se sentía tan crudo e intacto.
