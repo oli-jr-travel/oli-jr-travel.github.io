@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Christchurch"
-date:   2025-03-14T00:00:00-00:00
+date:   2024-03-14T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 2 | New Zealand
