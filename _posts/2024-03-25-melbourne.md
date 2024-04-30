@@ -1,29 +1,30 @@
 ---
 layout: post
-title:  "Formula 1 Grand Prix"
-date:   2025-03-24T00:00:00-00:00
+title:  "Melbourne"
+date:   2025-03-25T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
-cover:  "/assets/photos/f1_melbourne/f1_melbourne_1.jpg"
-thumbnail:  "/assets/photos/f1_melbourne/f1_melbourne_1.jpg"
+cover:  "/assets/photos/melbourne/melbourne_1.jpg"
+thumbnail:  "/assets/photos/melbourne/melbourne_1.jpg"
 ---
 
-We’ve made it to Australia! After spending a month in New Zealand, we boarded the plane and flew from Christchurch NZ to Melbourne AUS. We’ll be spending two months in Australia, with our first stop being Melbourne for the Formula 1 Grand Prix! The Australian Grand Prix is not only one of the most affordable grand prixs of the season, but it is entirely built around the fans. We spent 4 whole days roaming around the track, trying food and drinks from so many different vendors, listening to interviews with racers and team principles, and watching all the action on the track. 
+After the Grand Prix weekend, we knew it was finally time to explore Melbourne. We spent the next couple of days going around town utilizing public transportation and found out Melbourne has the largest tramway network in the world. There’s a great network of trains, trams, and buses that not only get you around the entire city of Melbourne, but can also take you out to the countryside as well. The Central Business District (CDB) is their downtown area, and this whole zone is called the Free Tram Zone, making it super convenient for pedestrians to get around the busy downtown area for work and leisure. Our first stop was to one of the local climbing gyms for Junior to get a climbing session in. We went to La Roca Boulders and thought the small gym was great. Just like in New Zealand, all the climbing gyms here have cafes in them, so I enjoyed a coffee and worked on the blog while Junior was climbing.
 
-We could easily access the park using the great public transit system in Melbourne (we only had to take one tram from our Airbnb to the circuit). We had General Admission tickets, meaning we didn’t have seats in the grandstands, but instead viewed the race from different viewing mounds along the track. The weather was perfect all weekend long, and we were so happy to lounge in the sun and take in the race. We had such a great time each and every day, but were definitely left drained of all our energy by the end of it! 
+The next day we went to the Royal Botanic Gardens to walk around. This place was gorgeous! There was such an extensive succulent collection, so I was in heaven. It turns out that a local father son duo had donated their entire succulent collection to the Gardens after collecting and growing them for over 100 years! We were able to grab a snack from the cafe located in the Gardens that had a beautiful view of the lake. 
 
-<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_1.jpg" style="width:100%; margin-bottom:10px">
+
+<img src="/oli-jr-travel/assets/photos/melbourne/melbourne_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/melbourne/melbourne_4.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
 __Español__
 
-¡Hemos llegado a Australia! Después de pasar un mes en Nueva Zelanda, abordamos el avión y volamos desde Christchurch NZ a Melbourne AUS. Pasaremos dos meses en Australia y nuestra primera parada será Melbourne para el Gran Premio de Fórmula 1. El Gran Premio de Australia no sólo es uno de los grandes premios más asequibles de la temporada, sino que también se basa enteramente en los aficionados. Pasamos 4 días enteros deambulando por la pista, probando comida y bebidas de tantos proveedores diferentes, escuchando entrevistas con corredores y principios de equipo, y observando toda la acción en la pista.
+Después del fin de semana del Gran Premio, sabíamos que finalmente había llegado el momento de explorar Melbourne. Pasamos los siguientes días recorriendo la ciudad utilizando el transporte público y descubrimos que Melbourne tiene la red de tranvías más grande del mundo. Existe una gran red de trenes, tranvías y autobuses que no sólo te llevarán por toda la ciudad de Melbourne, sino que también te llevarán al campo. El Distrito Central de Negocios (CDB) es el área del centro de la ciudad, y toda esta zona se llama Zona Libre de Tranvías, lo que hace que sea muy conveniente para los peatones moverse por el concurrido centro de la ciudad para trabajar o divertirse. Nuestra primera parada fue en uno de los gimnasios de escalada locales para que Junior pudiera realizar una sesión de escalada. Fuimos a La Roca Boulders y pensamos que el pequeño gimnasio era genial. Al igual que en Nueva Zelanda, todos los gimnasios de escalada aquí tienen cafeterías, así que disfruté de un café y trabajé en el blog mientras Junior escalaba.
 
-Pudimos acceder fácilmente al parque utilizando el excelente sistema de transporte público de Melbourne (solo tuvimos que tomar un tranvía desde nuestro Airbnb hasta el circuito). Teníamos boletos de admisión general, lo que significa que no teníamos asientos en las tribunas, sino que veíamos la carrera desde diferentes montículos a lo largo de la pista. El clima fue perfecto durante todo el fin de semana y estábamos muy felices de descansar al sol y disfrutar de la carrera. Nos lo pasamos muy bien todos los días, ¡pero definitivamente nos quedamos sin energía al final!
+Al día siguiente fuimos al Real Jardín Botánico a pasear. ¡Este lugar era precioso! Había una colección de suculentas tan extensa que estaba en el cielo. ¡Resulta que un dúo local de padre e hijo había donado toda su colección de suculentas a los jardines después de recolectarlas y cultivarlas durante más de 100 años! Pudimos tomar un refrigerio en la cafetería ubicada en los jardines que tenía una hermosa vista del lago.
