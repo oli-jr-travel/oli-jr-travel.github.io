@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Moonlit Sanctuary"
-date:   2025-04-03T00:00:00-00:00
+date:   2024-04-03T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
@@ -17,6 +17,7 @@ We had an animal-packed day today! We spent our day at the Moonlit Sanctuary whi
   <img src="/oli-jr-travel/assets/photos/moonlit_sanctuary/moonlit_sanctuary_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <img src="/oli-jr-travel/assets/photos/moonlit_sanctuary/moonlit_sanctuary_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/moonlit_sanctuary/moonlit_sanctuary_5.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
