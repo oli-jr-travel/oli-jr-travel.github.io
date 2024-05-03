@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Great Ocean Road"
-date:   2025-03-27T00:00:00-00:00
+date:   2024-03-27T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
@@ -14,11 +14,12 @@ Today we took a shuttle tour of one of Victoria’s natural gems – the Great O
 After this great adventure we are off to house sit for the Easter weekend while a lovely family gets to take their vacation and leave the pets at home! We are both missing our family pets, so getting to hang out with some animals for a few days will be great. Wish us luck! 
 
 <img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/great_ocean_road/great_ocean_road_5.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
