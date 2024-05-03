@@ -1,24 +1,32 @@
 ---
 layout: post
 title:  "Formula 1 Grand Prix"
-date:   2025-03-24T00:00:00-00:00
+date:   2024-03-24T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
-cover:  "/assets/photos/f1_melbourne/f1_melbourne_1.jpg"
-thumbnail:  "/assets/photos/f1_melbourne/f1_melbourne_1.jpg"
+cover:  "/assets/photos/f1_melbourne/f1_melbourne_3.jpg"
+thumbnail:  "/assets/photos/f1_melbourne/f1_melbourne_3.jpg"
 ---
 
 We’ve made it to Australia! After spending a month in New Zealand, we boarded the plane and flew from Christchurch NZ to Melbourne AUS. We’ll be spending two months in Australia, with our first stop being Melbourne for the Formula 1 Grand Prix! The Australian Grand Prix is not only one of the most affordable grand prixs of the season, but it is entirely built around the fans. We spent 4 whole days roaming around the track, trying food and drinks from so many different vendors, listening to interviews with racers and team principles, and watching all the action on the track. 
 
 We could easily access the park using the great public transit system in Melbourne (we only had to take one tram from our Airbnb to the circuit). We had General Admission tickets, meaning we didn’t have seats in the grandstands, but instead viewed the race from different viewing mounds along the track. The weather was perfect all weekend long, and we were so happy to lounge in the sun and take in the race. We had such a great time each and every day, but were definitely left drained of all our energy by the end of it! 
 
-<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_3.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+
 <br clear="all" />
 
 __Español__
