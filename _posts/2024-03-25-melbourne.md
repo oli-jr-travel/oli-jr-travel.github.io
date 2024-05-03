@@ -5,8 +5,8 @@ date:   2024-03-25T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
-cover:  "/assets/photos/melbourne/melbourne_1.jpg"
-thumbnail:  "/assets/photos/melbourne/melbourne_1.jpg"
+cover:  "/assets/photos/melbourne/melbourne_4.jpg"
+thumbnail:  "/assets/photos/melbourne/melbourne_4.jpg"
 ---
 
 After the Grand Prix weekend, we knew it was finally time to explore Melbourne. We spent the next couple of days going around town utilizing public transportation and found out Melbourne has the largest tramway network in the world. There’s a great network of trains, trams, and buses that not only get you around the entire city of Melbourne, but can also take you out to the countryside as well. The Central Business District (CDB) is their downtown area, and this whole zone is called the Free Tram Zone, making it super convenient for pedestrians to get around the busy downtown area for work and leisure. Our first stop was to one of the local climbing gyms for Junior to get a climbing session in. We went to La Roca Boulders and thought the small gym was great. Just like in New Zealand, all the climbing gyms here have cafes in them, so I enjoyed a coffee and worked on the blog while Junior was climbing.
