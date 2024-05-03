@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yarra Ranges"
+title:  "Yarra Ranges National Park"
 date:   2024-04-04T00:00:00-00:00
 author: Oli & Junior
 categories:
