@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Blue Mountains National Park"
-date:   2025-04-15T00:00:00-00:00
+date:   2024-04-15T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 3 | Australia
@@ -17,6 +17,10 @@ The real reason we came out here was to explore the Blue Mountains. That started
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
