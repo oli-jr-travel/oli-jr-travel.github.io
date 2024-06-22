@@ -13,7 +13,6 @@ From Brisbane we flew to Cairns to explore the Great Barrier Reef! We will be go
 
 On the long boat ride back, one of the crew members delivered a presentation on the Great Barrier Reef. We learned about all of the sea life we saw earlier in the day, as well as the impact of climate change on the reef (we even saw hints of this firsthand in the form of coral bleaching). It was super informative and a great way to end our day on the water. 
 
-<img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
@@ -22,6 +21,7 @@ On the long boat ride back, one of the crew members delivered a presentation on 
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
+<img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/great_barrier_reef/great_barrier_reef_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
