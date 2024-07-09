@@ -1,25 +1,40 @@
 ---
 layout: post
-title:  ""
-date:   2025-06-10T00:00:00-00:00
+title:  "Chiang Rai"
+date:   2024-06-11T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 5 | Thailand
-cover:  "/assets/photos//_1.jpg"
-thumbnail:  "/assets/photos//_1.jpg"
+cover:  "/assets/photos/chiang_rai/chiang_rai_1.jpg"
+thumbnail:  "/assets/photos/chiang_rai/chiang_rai_1.jpg"
 ---
 
-Text
+After Chiang Mai, we made our way 3 hours northeast to the small town of Chiang Rai. We’ll be going on a full day tour of some Chiang Rai Wats, the Myanmar-Thailand Border, a tea plantation, and the Golden Triangle. We started the day with Wat Rong Khun, or the White Temple, which is one of Chian Rai’s most famous attractions. This was a stunning and eccentric temple; unlike the other temples we’ve visited in Thailand, this Wat is more akin to a modern piece of art than a traditional Buddhist temple. The exterior is predominantly made of white concrete and mirrored pieces, giving it a very striking, shining appearance from afar. Notably, all throughout the temple are various modern characters or people depicted in statues or paintings, mostly portrayed with a rather frightful aura. Everything from Iron Man, Deadpool, Batman, Harry Potter, Osama bin Laden, Zidane and many more. Next we went to Wat Rong Suea Ten, also known as the Blue Temple. This temple reflected the architecture of the northern region, previously referred to as the Lan Na Kingdom before becoming what is currently known as Thailand. The entire site is painted blue and there were tons of intricate paintings and sculptures of Buddha, serpents and other animals throughout. After visiting the temples we went to the Black House museum. This was a contemporary museum with very dark and grim themed artwork. There were animal skulls, crocodile skins, creepy paintings and symbols of death throughout.
 
-<img src="/oli-jr-travel/assets/photos//_1.jpg" style="width:100%; margin-bottom:10px">
+Next we went to the Choui Fong Tea Plantation. This was a huge modern tea house located amidst sprawling, picturesque hills of tea farms in far northern Thailand. We got to sample three types of tea: Black tea, Oolong, and floral Oolong which were all very good. We also talked a lot with our tour guide and learned more about his time growing up and navigating life in a Chinese refugee camp in the northern Chiang Rai mountains. After the tea house we went to Mae Sai and the Myanmar border, which is the northernmost region of Thailand. We walked around the city for a bit and along the Ruak River right on the border. Our tour guide mentioned that many people cross the border on foot into Thailand to do some shopping since vendors line the streets on the Thai side of the border. With that, one of the best things about Thailand is all the fruit that is readily available from street vendors along with the thai chili salt that comes with it! Very reminiscent of the Mexican fruit vendors back in LA, covering our fruit with lime, chamoy, and Tajin. I bet Thais would also like Chamoy if they had it, haha!
+
+Our last stop of the day was the Golden Triangle. This region is the intersection of Myanmar, Thailand, and Laos and we started off at a viewpoint where you could see all three countries intersect via a network of rivers. The region was historically known as a hub for the opium trade, but today there isn’t really opium cultivation in Thailand as the Thai government had projects to replace it with other crops. We went to the Opium Museum filled with tons of opium paraphernalia and some of the somber history of the region. We finally finished the day at a big Buddha statue overlooking the Golden Triangle river. It was a jam-packed day, and after learning so much about the region, Thai history, and our tour guide, we felt that Chiang Rai would always have a special place in our hearts.
+
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos//_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos//_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_8.jpg" style="width:50%; margin-bottom:10px">
 
 <br clear="all" />
 
 __Español__
 
+Después de Chiang Mai, nos dirigimos 3 horas al noreste hasta la pequeña ciudad de Chiang Rai. Haremos un recorrido de un día completo por algunos Wats de Chiang Rai, la frontera entre Myanmar y Tailandia, una plantación de té y el Triángulo Dorado. Empezamos el día en Wat Rong Khun, o el Templo Blanco, que es una de las atracciones más famosas de Chiang Rai. Se trata de un templo impresionante y excéntrico; a diferencia de los otros templos que hemos visitado en Tailandia, este Wat se parece más a una obra de arte moderna que a un templo budista tradicional. El exterior está hecho predominantemente de hormigón blanco y piezas de espejo, lo que le da un aspecto muy llamativo y brillante desde lejos. Cabe destacar que por todo el templo hay varios personajes modernos o personas representadas en estatuas o pinturas, la mayoría retratadas con un aura bastante aterradora. Todo, desde Iron Man, Deadpool, Batman, Harry Potter, Osama bin Laden, Zidane y muchos más. A continuación fuimos a Wat Rong Suea Ten, también conocido como el Templo Azul. EspañolEste templo reflejaba la arquitectura de la región norte, antes conocida como el Reino Lan Na antes de convertirse en lo que hoy conocemos como Tailandia. Todo el lugar está pintado de azul y había toneladas de intrincadas pinturas y esculturas de Buda, serpientes y otros animales por todas partes. Después de visitar los templos, fuimos al museo de la Casa Negra. Este era un museo contemporáneo con obras de arte de temática muy oscura y sombría. Había cráneos de animales, pieles de cocodrilo, pinturas espeluznantes y símbolos de la muerte por todas partes.
 
-Text
+Luego fuimos a la plantación de té Choui Fong. Esta era una enorme casa de té moderna ubicada en medio de pintorescas colinas de plantaciones de té en el extremo norte de Tailandia. Pudimos probar tres tipos de té: té negro, oolong y oolong floral, todos muy buenos. También hablamos mucho con nuestro guía turístico y aprendimos más sobre su infancia y su vida en un campo de refugiados chino en las montañas del norte de Chiang Rai. Después de la casa de té, fuimos a Mae Sai y la frontera con Myanmar, que es la región más septentrional de Tailandia. Caminamos un poco por la ciudad y por el río Ruak, justo en la frontera. Nuestro guía turístico mencionó que muchas personas cruzan la frontera a pie hacia Tailandia para hacer algunas compras, ya que los vendedores se alinean en las calles del lado tailandés de la frontera. Además, una de las mejores cosas de Tailandia es toda la fruta que se puede conseguir fácilmente en los vendedores ambulantes, ¡junto con la sal de chile tailandés que la acompaña! Me recuerda mucho a los vendedores de fruta mexicanos de Los Ángeles, que cubrían nuestra fruta con lima, chamoy y Tajin. ¡Apuesto a que a los tailandeses también les gustaría el chamoy si lo tuvieran, jaja!
+
+Nuestra última parada del día fue el Triángulo Dorado. Esta región es la intersección de Myanmar, Tailandia y Laos y comenzamos en un mirador donde se podía ver la intersección de los tres países a través de una red de ríos. La región era conocida históricamente como un centro para el comercio del opio, pero hoy en día no hay realmente cultivo de opio en Tailandia, ya que el gobierno tailandés tenía proyectos para reemplazarlo con otros cultivos. Fuimos al Museo del Opio, repleto de parafernalia relacionada con el opio y de información sobre la sombría historia de la región. Finalmente, terminamos el día en una gran estatua de Buda con vistas al río Triángulo Dorado. Fue un día repleto de actividades y, después de aprender tanto sobre la región, la historia tailandesa y nuestro guía turístico, sentimos que Chiang Rai siempre ocuparía un lugar especial en nuestros corazones.
