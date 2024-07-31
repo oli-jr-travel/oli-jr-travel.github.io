@@ -1,25 +1,33 @@
 ---
 layout: post
-title:  ""
-date:   2025-06-10T00:00:00-00:00
+title:  "Ho Chi Minh City"
+date:   2024-06-14T00:00:00-00:00
 author: Oli & Junior
 categories:
-  - 5 | Thailand
-cover:  "/assets/photos//_1.jpg"
-thumbnail:  "/assets/photos//_1.jpg"
+  - 6 | Vietnam
+cover:  "/assets/photos/ho_chi_minh/ho_chi_minh_1.jpg"
+thumbnail:  "/assets/photos/ho_chi_minh/ho_chi_minh_1.jpg"
 ---
 
-Text
+Country number 5 here we come!! We landed in Vietnam on the evening of the 14th, which officially marks 4 whole months of travel, time is really flying by. Ho Chi Minh is a very large city, with a population of almost 9 million. The main attractions are primarily found in District 1, so that’s where we found ourselves wandering around. On our first day, we decided to check out the Saigon Central Post Office. We ordered a couple of Grab scooters, so our drivers each came to pick us up and we rode separately across town on the backs of the scooters. The traffic here is CRAZY! Unlike Thailand, where you can find a pretty good mix of scooters, cars and tuk-tuks, the primary modes of transport here are motorbikes and scooters, with about 80% of residents driving scooters. There are some intersections with stop lights, but even there you can find scooters and buses forcing their way through and everyone else needing to stop or weave around. Riding on the back of a scooter was truly an experience, you always felt like your driver was coming way too close to something or someone, that we would surely crash, or that they couldn’t possibly squeeze into such a small space, but time and time again we were amazed with how skillful all the drivers are – we didn’t see a single collision! 
 
-<img src="/oli-jr-travel/assets/photos//_1.jpg" style="width:100%; margin-bottom:10px">
+Anyways, I got to the post office before Junior and took a seat inside to wait for him. A little girl approached me and asked if she could practice her English with me and I said of course. I got to learn a bit about her: she’s 10 years old, she’s from District 12, and her parents have brought her and her brother to District 1 every weekend for the past 2 years to practice their English with tourists. She had such a strong American accent when she spoke English, and even said “like” a lot hahaha. Her brother came over to join us, he was a few years older and said he wants to be an engineer when he grows up, so he and Junior were able to chat once he arrived. After chatting with these kids for a good while, we walked next door to grab some lunch and stroll around Book Street – a small street lined with bookstores and cafes. 
+
+On our next day, we took a tour of the Cu Chi Tunnels. On our journey out of Ho Chi Minh City, our tour guide provided us with the history of the war in that region. Our first stop on the tour was actually a center where permanently disabled victims from war, primarily civilians impacted by Agent Orange, could find employment putting together handcrafted art pieces. Our guide talked to us about how devastating Agent Orange was in the region and how so many were permanently impacted, leaving them unable to work, but centers like this enable them to work at their own pace and generate income. From here we made our way to the Cu Chi Tunnels and were guided through the jungle, stopping to see craters left behind by bombs and mines as well as different traps set by the Viet Cong at the time. We saw wartime relics, and even had the chance to crawl through one of the tunnels. The whole experience was incredibly sobering, seeing all of this set within the thick jungle really gave us insight into the psychological impact this war had for the soldiers on either side. 
+
+<img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos//_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos//_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
 
 __Español__
 
+¡País número 5, allá vamos! Aterrizamos en Vietnam la tarde del día 14, lo que marca oficialmente 4 meses completos de viaje, el tiempo realmente vuela. Ho Chi Minh es una ciudad muy grande, con una población de casi 9 millones. Las principales atracciones se encuentran principalmente en el Distrito 1, así que ahí es donde nos encontramos deambulando. El primer día, decidimos visitar la Oficina Central de Correos de Saigón. Pedimos un par de scooters Grab, así que nuestros conductores vinieron a recogernos y viajamos por separado a través de la ciudad en la parte trasera de los scooters. ¡El tráfico aquí es una LOCURA! A diferencia de Tailandia, donde puedes encontrar una buena mezcla de scooters, coches y tuk-tuks, los principales medios de transporte aquí son las motos y los scooters, con aproximadamente el 80% de los residentes conduciendo scooters. Hay algunas intersecciones con semáforos, pero incluso allí puedes encontrar scooters y autobuses abriéndose paso y todos los demás necesitan detenerse o zigzaguear. Viajar en la parte trasera de una moto fue una verdadera experiencia, siempre sentías que tu conductor se acercaba demasiado a algo o alguien, que seguramente chocaríamos, o que no podrían caber en un espacio tan pequeño, pero una y otra vez nos sorprendía lo hábiles que son todos los conductores, ¡no vimos ni una sola colisión!
 
-Text
+De todos modos, llegué a la oficina de correos antes que Junior y me senté adentro para esperarlo. Una niña se me acercó y me preguntó si podía practicar su inglés conmigo y le dije que por supuesto. Pude aprender un poco sobre ella: tiene 10 años, es del Distrito 12 y sus padres la han traído a ella y a su hermano al Distrito 1 todos los fines de semana durante los últimos 2 años para practicar su inglés con los turistas. Tenía un acento estadounidense muy fuerte cuando hablaba inglés, e incluso decía "como" mucho jajaja. Su hermano vino a unirse a nosotros, era unos años mayor y dijo que quería ser ingeniero cuando fuera grande, así que él y Junior pudieron charlar una vez que llegó. Después de charlar un buen rato con estos niños, caminamos hasta la puerta de al lado para almorzar y pasear por Book Street, una pequeña calle llena de librerías y cafés.
+
+Al día siguiente, hicimos un recorrido por los túneles de Cu Chi. En nuestro viaje desde Ho Chi Minh City, nuestro guía turístico nos contó la historia de la guerra en esa región. Nuestra primera parada en el recorrido fue en realidad un centro donde las víctimas de la guerra con discapacidad permanente, principalmente civiles afectados por el Agente Naranja, podían encontrar empleo para armar piezas de arte artesanales. Nuestro guía nos habló sobre lo devastador que fue el Agente Naranja en la región y cómo muchos se vieron afectados permanentemente, dejándolos incapaces de trabajar, pero centros como este les permiten trabajar a su propio ritmo y generar ingresos. Desde aquí nos dirigimos a los túneles de Cu Chi y nos guiaron a través de la jungla, deteniéndonos para ver los cráteres que dejaron las bombas y las minas, así como las diferentes trampas que puso el Viet Cong en ese momento. Vimos reliquias de la guerra e incluso tuvimos la oportunidad de arrastrarnos por uno de los túneles. Toda la experiencia fue increíblemente aleccionadora, ver todo esto dentro de la espesa jungla realmente nos dio una idea del impacto psicológico que esta guerra tuvo para los soldados de ambos lados.
