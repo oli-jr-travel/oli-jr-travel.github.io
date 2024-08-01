@@ -15,11 +15,11 @@ Anyways, I got to the post office before Junior and took a seat inside to wait f
 
 On our next day, we took a tour of the Cu Chi Tunnels. On our journey out of Ho Chi Minh City, our tour guide provided us with the history of the war in that region. Our first stop on the tour was actually a center where permanently disabled victims from war, primarily civilians impacted by Agent Orange, could find employment putting together handcrafted art pieces. Our guide talked to us about how devastating Agent Orange was in the region and how so many were permanently impacted, leaving them unable to work, but centers like this enable them to work at their own pace and generate income. From here we made our way to the Cu Chi Tunnels and were guided through the jungle, stopping to see craters left behind by bombs and mines as well as different traps set by the Viet Cong at the time. We saw wartime relics, and even had the chance to crawl through one of the tunnels. The whole experience was incredibly sobering, seeing all of this set within the thick jungle really gave us insight into the psychological impact this war had for the soldiers on either side. 
 
-<img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_1.jpg" style="width:100%; margin-bottom:10px">
 <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_3.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ho_chi_minh/ho_chi_minh_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
