@@ -17,7 +17,7 @@ Our next tour is going to be taking us south of HCMC to the Mekong Delta. We mad
   <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
   <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
   <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
