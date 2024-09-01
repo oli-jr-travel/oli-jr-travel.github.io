@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Ha Giang Loop"
-date:   2025-07-01T00:00:00-00:00
+date:   2024-07-01T00:00:00-00:00
 author: Oli & Junior
 categories:
   - 6 | Vietnam
-cover:  "/assets/photos/ha_giang/ha_giang_1.jpg"
-thumbnail:  "/assets/photos/ha_giang/ha_giang_1.jpg"
+cover:  "/assets/photos/ha_giang_loop/ha_giang_loop_1.jpg"
+thumbnail:  "/assets/photos/ha_giang_loop/ha_giang_loop_1.jpg"
 ---
 
 Wow wow WOW! The Ha Giang Loop had to have been one of the best experiences we’ve had this whole trip!! We spent two nights and three days on the loop. A little background on what we mean when we say “the loop”: Ha Giang is a town located in Northern Vietnam, very close to the Chinese border. It is very mountainous, covered in rice paddies and corn fields, tons of villages scattered throughout the region, and a tourist attraction that is quickly gaining popularity is touring this region via motorbike on a very scenic road that loops through the mountains. You have your pick of which tour company you want to book through, each with its own vibe, but essentially you hire a driver who will take you on the back of their motorbike through the region, making stops for food and coffee along the way. Our group was small – we were a total of 6 and the other 4 people in our group were all from London, funny enough (I think Junior has finally picked up the accent after being exposed to it for 72 hours straight haha!). 
@@ -15,12 +15,28 @@ We hit the road by 9am and almost immediately after leaving the town of Ha Giang
 
 Day three was also met with clouds and a bit of rain. Our first stop was the Vietnam-China border. It was so foggy driving up to the viewing point, but right as we were parking, the wind picked up and blew the clouds out of the way and left us with a perfect view of the border. This lasted several minutes, just enough time for some pictures, and then the clouds settled back into the valley. From here, we made our way to lunch a good ways away, taking in all the views. After lunch, we parted ways with the two people who booked 3 nights on the loop. The rest of us continued onto the Moon Rocks viewpoint which was super cool. We made a few additional stops along the way, but mostly it was to give our butts and legs a break from being seated for so long haha. We were serenaded one last time by our driver who plays the flute, so sad that we wouldn’t be traveling with our group again. We made it back to Ha Giang at 7pm which was enough time to grab dinner and hop on our overnight bus to Hanoi. We had such a great time on the loop and would definitely recommend it to anyone looking for a fun experience in Vietnam.
 
-<img src="/oli-jr-travel/assets/photos//_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos//_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos//_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos//_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
+<img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_5.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_8.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_9.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_10.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_11.jpg" style="width:100%; margin-bottom:10px">
+<div float="left">
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_12.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_13.jpg" style="float:right; width:49%; margin-bottom:10px" />
+</div>
+<img src="/oli-jr-travel/assets/photos/ha_giang_loop/ha_giang_loop_14.jpg" style="width:100%; margin-bottom:10px">
+
 
 <br clear="all" />
 
