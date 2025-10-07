@@ -15,18 +15,18 @@ Unable to resist, Junior approached the group of climbers. The first time we cro
 
 After Castle Hill we made our way to Arthur’s Pass National Park for a waterfall hike. This turned out to be less of a hike and more of a stairmaster workout, honestly. Once we made it to the Devil’s Punchbowl Waterfall, the view from the platform was incredible! The waterfall and river below were so forceful. The mist coming off of the waterfall made a vibrant rainbow, and we stood gazing at it for a while. We made it to the car as the sun set, and made it to Porters Lodge (the hostel we’d be staying at tonight) just as it was getting dark. This place was really cool, it was a mountain bike heaven and has access to skiing during the winter season.
 
-<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_3.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_3.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_8.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/castle_hill_arthurs_pass/castle_hill_arthurs_pass_8.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
