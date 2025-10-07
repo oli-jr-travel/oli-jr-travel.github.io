@@ -13,13 +13,13 @@ We returned to Queenstown today to return the van. We were so sad to have our va
 
 We continued on our path and made it to the gondola. Junior was so fascinated with all the mechanisms that made the different parts of this machine work so cohesively. We stood and watched the gondola run for a while before actually getting on it. We also got to watch mountain bikers hop on the gondola lifts modified to carry them and their bikes up the mountain. Once we made it to the top, it was time to luge! We put our little helmets on (and hoped to god we wouldn’t get lice!) and made our way to the next lift to take us even further up (We were a little nervous Oli wasn't going to be tall enough to ride on her own, but thank god she just cleared it hahaha! - Junior).We got a crash course lesson from one of the luge employees and after maybe 2 minutes of practicing our starting/stopping/turning, we were “licensed” (in the form of a little stamp that said “LUGE”) and ready to hit the track! Oh my gosh we had so much fun – Junior and his need for speed sent him FLYING down this track and catching air over multiple small jumps. 
 
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_4.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_5.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/queenstown/queenstown_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/queenstown/queenstown_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/queenstown/queenstown_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/queenstown/queenstown_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_8.jpg" style="width:40%; margin-bottom:10px">
+<img src="/assets/photos/queenstown/queenstown_8.jpg" style="width:40%; margin-bottom:10px">
 
 <p style="text-align: center;">Looks like Mercedes F1 has a new driver to replace Lewis Hamilton next season..</p>
 
