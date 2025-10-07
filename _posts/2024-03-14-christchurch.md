@@ -14,16 +14,16 @@ Our drive from Lake Tekapo to Christchurch was eventful – not the drive per se
 Anyways, we made it to our final stop in New Zealand – Christchurch. We won’t be flying to Australia until the 19th, but for the next 5 days we will be hanging in and around Christchurch. On our first night we were able to check out the local climbing gym, Uprising. This place was really cool, it was bouldering only but also offered a variety of yoga classes. It has its own cafe that serves anything from coffee to beer to pizzas and pastries. For our first couple of nights, we stayed at a pretty upscale hostel that felt more like a hotel – The Lodge at Bealey Quarter – and were able to hang out there as it poured rain on our second night in Christchurch. 
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/christchurch/christchurch_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/christchurch/christchurch_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
