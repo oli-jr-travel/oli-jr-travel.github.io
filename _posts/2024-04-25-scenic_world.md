@@ -13,12 +13,12 @@ We’re back in the Blue Mountains, but this time we are checking out the sights
 
 On each of the rides, the operators talked to us a bit more about the park – for instance, the whole park is larger than the entire country of Lebanon, and the reason they’re called the Blue Mountains is because the dust from the ground mixes with the oils from the eucalyptus trees in the valley to form this blue haze that settles within the valley, so even on a clear day the mountains will still give off a hazy, blue appearance. We took the Railway down to the valley floor where we were able to walk along a flat boardwalk and see all the beautiful greenery and listen to the native birds. This was such a fun way to enjoy the park!
 
-<img src="/oli-jr-travel/assets/photos/scenic_world/scenic_world_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/scenic_world/scenic_world_2.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/scenic_world/scenic_world_3.jpg" style="width:50%; margin-bottom:10px">
+<img src="/assets/photos/scenic_world/scenic_world_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/scenic_world/scenic_world_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/scenic_world/scenic_world_3.jpg" style="width:50%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/scenic_world/scenic_world_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/scenic_world/scenic_world_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/scenic_world/scenic_world_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/scenic_world/scenic_world_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
