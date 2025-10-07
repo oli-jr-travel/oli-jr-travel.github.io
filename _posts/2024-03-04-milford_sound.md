@@ -13,18 +13,18 @@ We are going into Fiordland National Park today! It poured rain all through the 
 
 As we made it to the opening of the Milford Sound, the rain paused enough for us to walk to the visitors center. We walked around and considered doing a hike until it started pouring rain again. We ended up hanging out in the van, eating snacks and listening to the rain. We drove back to our campsite and got started on dinner. Chef Junior was in charge of most of the cooking tonight. I was his Sous Chef and I cleaned the dishes afterwards haha. We had some delicious pasta — everything tastes better when you're camping, especially warm food on cold days.
 
-<img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/milford_sound/milford_sound_2.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/milford_sound/milford_sound_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/milford_sound/milford_sound_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
