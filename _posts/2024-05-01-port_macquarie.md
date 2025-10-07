@@ -16,11 +16,11 @@ We learned a lot about the declining koala populations in eastern Australia, whi
 We got to chat with one of the volunteers when we arrived, he was a retired gentleman that moved to the area specifically to volunteer with the hospital. He mentioned that he had been on the rescue team previously, but wasn’t cut out for middle-of-the-night calls that required rescuing koalas in the pouring rain, so now he’s more hands-on at the hospital grounds, educating visitors and tending to the koalas in rehab. He showed us the emergency room where koalas are evaluated, and it had just about everything you would expect a regular human ER to have. He also showed us the board of all their current patients, and explained to us how they run the hospital and rehab program. This place was so great, and it was really inspiring to see what they are able to do for these koalas solely based on the donations they receive and the help of their volunteers. They don’t receive any government funding, but that doesn’t stop them from helping rehabilitate injured koalas, conserving and restoring habitats, or educating the public.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/port_macquarie/port_macquarie_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/port_macquarie/port_macquarie_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/port_macquarie/port_macquarie_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/port_macquarie/port_macquarie_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div><div float="left">
-  <img src="/oli-jr-travel/assets/photos/port_macquarie/port_macquarie_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/port_macquarie/port_macquarie_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/port_macquarie/port_macquarie_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/port_macquarie/port_macquarie_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
