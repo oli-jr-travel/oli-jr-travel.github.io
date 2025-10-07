@@ -15,12 +15,12 @@ At one point, maybe half an hour in, I wanted to take a quick break to wipe the 
 
 Because I’m insanely paranoid, I needed to confirm that we weren’t going to get any blood borne disease from the couple of bites we each got. I looked up leeches in this area only to find an [article on the state park website](https://www.parks.vic.gov.au/news/2023/08/28/00/13/get-to-know-leeches) that sounds as if it could have been written by a leech! It said that it takes them about half an hour to fill up on your blood, so you should just leave them to do their thing and they will eventually fall off, but if you must remove them to use your fingernail. WHO WOULD WILLINGLY LET A LEECH SUCK THEIR BLOOD FOR HALF AN HOUR?!?! Anyways, as I was reading this article aloud to Junior on our drive out of the park, he spotted a stowaway leech squirming on his lap! He slammed on the brakes and we both hopped out of the car to shake ourselves off once again before heading back to town. After this nightmare, we had a lovely dinner and stayed in Healesville before driving back to Melbourne the next morning.
 
-<img src="/oli-jr-travel/assets/photos/yarra_ranges/yarra_ranges_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/yarra_ranges/yarra_ranges_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/yarra_ranges/yarra_ranges_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/yarra_ranges/yarra_ranges_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/yarra_ranges/yarra_ranges_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/yarra_ranges/yarra_ranges_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/yarra_ranges/yarra_ranges_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/yarra_ranges/yarra_ranges_4.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
