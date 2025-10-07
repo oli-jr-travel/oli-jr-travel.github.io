@@ -15,10 +15,10 @@ We house-sat for the last couple of nights, and when the homeowner returned she 
 
 You heard that right, we saw a full standup comedy show in the Town Hall. This was part of the Melbourne International Comedy Festival – a huge festival that takes over Melbourne with over 700 shows spanning the course of an entire month! These shows range from standup to improv to family friendly shows and so much more, popping up at various locations throughout the city whether it be at libraries after-hours, bars, the Town Hall, etc. The comedian we went to see, Daniel Connell, was hilarious and we grabbed some sushi on the walk back to our hostel. A great way to end our time in Melbourne – now off to Sydney!
 
-<img src="/oli-jr-travel/assets/photos/melbourne/melbourne_5.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/melbourne/melbourne_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/melbourne/melbourne_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/melbourne/melbourne_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
