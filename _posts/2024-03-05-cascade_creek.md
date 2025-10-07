@@ -16,11 +16,11 @@ We made it to the lake and in true Junior fashion, he immediately started lookin
 Once night time rolled around, I was so excited to see the sky since it would be clear after raining the past two nights. We cracked open the curtain in the van and saw so many stars! It was so cold outside, but I just had to go outside. We stepped out and were in awe – we could see the Milky Way stretch across the sky above us! I had never seen that many stars, it was truly incredible.  
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/cascade_creek/cascade_creek_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/cascade_creek/cascade_creek_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_3.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/cascade_creek/cascade_creek_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/cascade_creek/cascade_creek_3.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/cascade_creek/cascade_creek_4.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
