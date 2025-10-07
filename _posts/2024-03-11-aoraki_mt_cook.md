@@ -16,15 +16,15 @@ Our second morning in the Aoraki area, we were checking out of Haka House when w
 We decided to hike into the next valley over, the Tasman Valley. The wind was insane on this hike – it was literally pushing us around at different points! We took a short detour to see a small lake, but quickly continued on to the rest of the hike. Once we made it to the final lookout, we got some great views of Tasman Lake and Tasman Glacier. After this, we drove to Lake Tekapo, where we’ll be staying for the next couple evenings.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_5.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/aoraki_mt_cook/aoraki_mt_cook_6.jpg" style="width:60%; margin-bottom:10px">
+<img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_5.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/aoraki_mt_cook/aoraki_mt_cook_6.jpg" style="width:60%; margin-bottom:10px">
 
 
 <br clear="all" />
