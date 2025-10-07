@@ -13,10 +13,10 @@ Time to explore another UNESCO Heritage Site! Today we are leaving Cairns and dr
 
 The next day we decided to spend some time deeper north in the forest and started off the day by crossing the Daintree River on a short ferry ride. We had to make a pitstop at the Daintree Ice Cream Company. This was a cute handmade ice cream shop that had local tropical fruit flavors as well as some of the classics. After ice cream we went on the short and peaceful Madja boardwalk which winds through the dense mangrove lowland forest. We spent the rest of the day exploring the rainforest and beach out at Cape Tribulation. Junior got a nice beach run in and Oli had fun admiring the thousands of hermit crabs! We finished the day at this gorgeous estuary where the rainforest river meets the ocean. We were wading shallow streams, playing with the driftwood, and checking out all of the ocean critters that call this estuary home. We felt like we had just landed on the set of Survivor haha!
 
-<img src="/oli-jr-travel/assets/photos/daintree_rainforest/daintree_rainforest_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/daintree_rainforest/daintree_rainforest_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/daintree_rainforest/daintree_rainforest_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/daintree_rainforest/daintree_rainforest_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/daintree_rainforest/daintree_rainforest_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/daintree_rainforest/daintree_rainforest_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
