@@ -11,10 +11,10 @@ thumbnail:  "/assets/photos/pureora_forest/pureora_forest_1.jpg"
 
 Now that we’re in Hamilton, we’re going to explore a bit more of the North Island. We picked up a rental car and made our way to the Pureora Forest Park. We took a day hike out to the Maramataha Bridge which is the third longest suspension bridge in New Zealand coming in at 141m (or 462ft) long and 53m (or 173ft) tall! It was so wobbly once we were in the middle of it, and the high wind was no help. All throughout our hike we had the perfect weather, but just as we returned to the car and closed the doors it started POURING rain! We hit the road to another part of the forest and car-camped at the Ngaherenga campsite. 
 
-<img src="/oli-jr-travel/assets/photos/pureora_forest/pureora_forest_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/pureora_forest/pureora_forest_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/pureora_forest/pureora_forest_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/pureora_forest/pureora_forest_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/pureora_forest/pureora_forest_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/pureora_forest/pureora_forest_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
