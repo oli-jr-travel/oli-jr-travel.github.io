@@ -13,10 +13,10 @@ Now that it’s just the two of us again, we’re back to our regularly schedule
 
 The next morning, I woke up right before sunrise and walked down to the beach. The receptionist at the hostel let us know that there is a resident pod of dolphins that make their way up and down the beach each morning around sunrise, so I had to check it out. To my surprise, loads of people were out either strolling around the beach, surfing, walking their dogs, or just grabbing a cup of coffee at the beachfront cafe. Later in the morning, Junior grabbed a surfboard and I grabbed my headphones and we headed to the beach. Junior was out in the water catching some waves (and occasionally getting pummeled by others) while I lounged on the beach listening to the waves and my audiobook. It was the perfect day to say the least! 
 
-<img src="/oli-jr-travel/assets/photos/newcastle/newcastle_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/newcastle/newcastle_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/newcastle/newcastle_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/newcastle/newcastle_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/newcastle/newcastle_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/newcastle/newcastle_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
