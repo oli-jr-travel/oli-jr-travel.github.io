@@ -11,10 +11,10 @@ thumbnail:  "/assets/photos/queenstown/queenstown_1.jpg"
 
 We will be spending the next couple of days in Queenstown before picking up our campervan rental and heading on our next adventure. Queenstown is a really cute alpine lake town in the southern region of the South Island. It is very touristy, and has a wide range of things to do like gondola rides, luging, jet boat excursions, mountain biking, waterfront drinking and dining, gardens, hiking, and so much more. We took it easy the couple of days we had here, since we just came off a few days of backpacking and were anticipating some more camping in the next few days. We went to the local climbing gym, checked out a couple of weekly craft pop-up markets, and tried out a few local eateries, cafes and bars.
 
-<img src="/oli-jr-travel/assets/photos/queenstown/queenstown_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/queenstown/queenstown_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/queenstown/queenstown_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/queenstown/queenstown_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/queenstown/queenstown_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
