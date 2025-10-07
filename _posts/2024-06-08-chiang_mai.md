@@ -14,16 +14,16 @@ Chiang Mai!!! Oh my gosh did we have the best time here. Chiang Mai is in northe
 In the evening, we walked around the local night market and tried Khao Soi, a noodle dish originating in northern Thailand. After that, we scoped out the local jazz scene and caught a set at The North Gate Jazz Co-Op. This jazz bar was packed to the brim with people – they even had listeners crowding the sidewalk and street trying to get in on the action. They have bands playing 7 days a week from 7pm to 1am, definitely a place we would frequent if I lived in Chiang Mai. We had such a great time in Chiang Mai, we could see ourselves returning and spending more time here.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_mai/chiang_mai_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_5.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_mai/chiang_mai_6.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
