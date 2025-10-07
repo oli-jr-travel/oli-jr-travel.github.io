@@ -11,7 +11,7 @@ thumbnail:  "/assets/photos/crossover_south_island/ferry_south_island.jpg"
 
 Today marks our last day on the North Island for a while. We hopped on the ferry in Wellington to take us over to the South Island via Cooks Straight. Admittedly, we slept through our alarm and missed the actual ferry we booked, so we had to book the next available one a few hours later! We did eventually make it to Picton, the small port town on the north tip of the South Island. We stayed at this hostel called the Sequoia Lodge and honestly, it felt like we hopped in a time machine back to what would have been the golden age of hostels. It was so homey and the guy that ran it, Graham, seems like he pours a lot of time into making the place feel like you’re just hanging out at a friend’s house. We’ve stayed at a number of hostels at this point, some have upgraded amenities but feel a bit sterile, others felt and looked like the Cecil Hotel, but this one was a nice gem we stumbled upon. 
 
-<img src="/oli-jr-travel/assets/photos/crossover_south_island/ferry_south_island.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/crossover_south_island/ferry_south_island.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
