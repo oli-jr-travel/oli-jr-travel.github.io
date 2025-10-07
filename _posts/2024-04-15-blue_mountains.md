@@ -13,14 +13,14 @@ We’ve picked up a rental car and are headed out of the city! We are going two 
 
 The real reason we came out here was to explore the Blue Mountains. That started with going to a few lookouts to take in the views, and we eventually made our way to the Blue Mountains Heritage Center to learn a bit more about its origins & conservation, and our last to-do was a three hour hike. The Blue Mountains are essentially the Grand Canyon of Australia, but they are incredibly more vast and lush with trees filling the valley floor almost all the way up to the rims. There is a north and south side of the park, split by the Great Western Road, so we took some time to see each side. One popular rock feature in the park is the Three Sisters, which is found in the southern section of the park and consists of three large rock pillars. We were able to hike along the ridge in the northern section of the park and get some great views of waterfalls and the canyon.
 
-<img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/blue_mountains/blue_mountains_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/blue_mountains/blue_mountains_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/blue_mountains/blue_mountains_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/blue_mountains/blue_mountains_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/blue_mountains/blue_mountains_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/blue_mountains/blue_mountains_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
