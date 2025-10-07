@@ -16,18 +16,18 @@ Next we went to the Choui Fong Tea Plantation. This was a huge modern tea house 
 Our last stop of the day was the Golden Triangle. This region is the intersection of Myanmar, Thailand, and Laos and we started off at a viewpoint where you could see all three countries intersect via a network of rivers. The region was historically known as a hub for the opium trade, but today there isn’t really opium cultivation in Thailand as the Thai government had projects to replace it with other crops. We went to the Opium Museum filled with tons of opium paraphernalia and some of the somber history of the region. We finally finished the day at a big Buddha statue overlooking the Golden Triangle river. It was a jam-packed day, and after learning so much about the region, Thai history, and our tour guide, we felt that Chiang Rai would always have a special place in our hearts.
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/chiang_rai/chiang_rai_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/chiang_rai/chiang_rai_8.jpg" style="width:50%; margin-bottom:10px">
+<img src="/assets/photos/chiang_rai/chiang_rai_8.jpg" style="width:50%; margin-bottom:10px">
 
 <br clear="all" />
 
