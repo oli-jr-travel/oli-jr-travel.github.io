@@ -14,12 +14,12 @@ After the Grand Prix weekend, we knew it was finally time to explore Melbourne. 
 The next day we went to the Royal Botanic Gardens to walk around. This place was gorgeous! There was such an extensive succulent collection, so I was in heaven. It turns out that a local father son duo had donated their entire succulent collection to the Gardens after collecting and growing them for over 100 years! We were able to grab a snack from the cafe located in the Gardens that had a beautiful view of the lake. 
 
 
-<img src="/oli-jr-travel/assets/photos/melbourne/melbourne_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/melbourne/melbourne_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/melbourne/melbourne_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/melbourne/melbourne_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/melbourne/melbourne_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/melbourne/melbourne_4.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/melbourne/melbourne_4.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
