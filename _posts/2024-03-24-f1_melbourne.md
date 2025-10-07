@@ -14,17 +14,17 @@ We’ve made it to Australia! After spending a month in New Zealand, we boarded 
 We could easily access the park using the great public transit system in Melbourne (we only had to take one tram from our Airbnb to the circuit). We had General Admission tickets, meaning we didn’t have seats in the grandstands, but instead viewed the race from different viewing mounds along the track. The weather was perfect all weekend long, and we were so happy to lounge in the sun and take in the race. We had such a great time each and every day, but were definitely left drained of all our energy by the end of it! 
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_1.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_2.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_3.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/f1_melbourne/f1_melbourne_3.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/f1_melbourne/f1_melbourne_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/f1_melbourne/f1_melbourne_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
