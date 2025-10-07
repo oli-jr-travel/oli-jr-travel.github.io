@@ -15,10 +15,10 @@ No pictures are allowed once you enter the cave so all the pictures on this post
 
 After this, we boarded a small boat and were navigated through the caves by our guide. This portion of the tour was in absolute darkness and silence. When we entered the cave, it looked like constellations filled the entire ceiling. It was such a surreal experience.
 
-<img src="/oli-jr-travel/assets/photos/waitomo_glow_worm/waitomo_glow_worm_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/waitomo_glow_worm/waitomo_glow_worm_1.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/waitomo_glow_worm/waitomo_glow_worm_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/waitomo_glow_worm/waitomo_glow_worm_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/waitomo_glow_worm/waitomo_glow_worm_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/waitomo_glow_worm/waitomo_glow_worm_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
