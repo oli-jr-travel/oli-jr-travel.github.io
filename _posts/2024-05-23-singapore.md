@@ -16,20 +16,20 @@ In the evening, we joined a group of fellow tourists and took the lightrail to G
 Our last stop in town was, of course, the airport! We arrived 3 hours before our flight, which was not enough time to explore this world renowned airport. After checking in our bags, we went to the Jewel to see the vortex – oh my gosh this was next level crazy. You really could stare at it for hours, it was mesmerizing. We walked around, stopped in a couple shops, and grabbed a quick lunch in the food court. Before we knew it, it was time to hop on the skytrain to take us to our terminal for our flight. Bye Singapore, next stop: Thailand!
 
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_2.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_3.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_4.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_5.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_8.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/singapore/singapore_9.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_8.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/singapore/singapore_9.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
