@@ -11,16 +11,16 @@ thumbnail:  "/assets/photos/mekong_delta/mekong_delta_1.jpg"
 
 Our next tour is going to be taking us south of HCMC to the Mekong Delta. We made so many stops on this tour, and our first was a little bit before we reached the delta, the Vinh Trang Pagoda. Here we saw a very ornate pagoda as well as two HUGE statues of Buddha, one of the Lucky Buddha and the other of the reclining Buddha. Next up is the delta! We took a boat across the river to one of the inlets, and our first stop on this side of the delta is a honey bee farm! We were able to try some honey and royal jelly. After this we took a short stroll through the village and sampled some local fruits while listening to traditional Vietnamese folk music. We continued our stroll and eventually boarded a sampan, a flat-bottomed wooden boat, to take us through a canal to our lunch spot. The food was good, but we couldn’t wait to explore the area around us. We were on a crocodile and catfish farm, so we hopped on a couple of bikes and rode around checking it all out before taking the sampan back to our main boat. Before heading back across the river, we stopped into a local candy shop that specializes in coconut candies. They made all of their candies there and we got to see a bit of the process – it was almost like a thick taffy made of coconut milk, malt, and condensed milk – it felt like we were seeing the Cajeta of Vietnam being made hahaha!
 
-<img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_2.jpg" style="width:45%; margin-bottom:10px">
+<img src="/assets/photos/mekong_delta/mekong_delta_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/mekong_delta/mekong_delta_2.jpg" style="width:45%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/mekong_delta/mekong_delta_3.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/mekong_delta/mekong_delta_4.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
-<img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_5.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/mekong_delta/mekong_delta_5.jpg" style="width:100%; margin-bottom:10px">
 <div float="left">
-  <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
-  <img src="/oli-jr-travel/assets/photos/mekong_delta/mekong_delta_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/mekong_delta/mekong_delta_6.jpg" style="float:left; width:49%; margin-bottom:10px" />
+  <img src="/assets/photos/mekong_delta/mekong_delta_7.jpg" style="float:right; width:49%; margin-bottom:10px" />
 </div>
 
 <br clear="all" />
