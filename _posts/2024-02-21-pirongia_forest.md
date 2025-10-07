@@ -15,9 +15,9 @@ Seemingly out of nowhere, a tropical forest appeared out of the farmland. We lat
 
 We made our way into the forest and did a short hike to Wairēinga, otherwise known as Bridal Veil Falls. It was spectacular from all four of its different lookout points! This rock that makes up the face of the waterfall is hard basalt rock that came from a volcano about 1.5 km away. It’s resisted the erosive power of the water and now forms the lip of the falls. 
 
-<img src="/oli-jr-travel/assets/photos/pirongia_forest/pirongia_forest_1.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/pirongia_forest/pirongia_forest_2.jpg" style="width:100%; margin-bottom:10px">
-<img src="/oli-jr-travel/assets/photos/pirongia_forest/pirongia_forest_3.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/pirongia_forest/pirongia_forest_1.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/pirongia_forest/pirongia_forest_2.jpg" style="width:100%; margin-bottom:10px">
+<img src="/assets/photos/pirongia_forest/pirongia_forest_3.jpg" style="width:100%; margin-bottom:10px">
 
 <br clear="all" />
 
